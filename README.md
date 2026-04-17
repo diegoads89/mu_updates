@@ -1,3 +1,4 @@
+Markdown
 # Plano de Desenvolvimento & Sugestões
 **MGM TOP MUSERVER**
 
@@ -43,3 +44,111 @@ PartyGeneralMasterExperience2 = 105
 PartyGeneralMasterExperience3 = 110
 PartyGeneralMasterExperience4 = 115
 PartyGeneralMasterExperience5 = 120
+Exp Special (Bónus por personagens de classes diferentes):
+
+Ini, TOML
+PartySpecialExperience1 = 100
+PartySpecialExperience2 = 110
+PartySpecialExperience3 = 120
+PartySpecialExperience4 = 130
+PartySpecialExperience5 = 140
+Global Post (Multiserver a exibir o nome do sub-servidor):
+
+Ini, TOML
+CommandPostShowServerName = 1
+Limite de entradas para Eventos (BC/CC/DS/IT/IG/DG):
+
+Ini, TOML
+DoubleGoerMaxEntryCount_AL0 = 0
+DoubleGoerMaxEntryCount_AL1 = 0
+DoubleGoerMaxEntryCount_AL2 = 0
+DoubleGoerMaxEntryCount_AL3 = 0
+Ajustes de Combate Básicos:
+
+Ini, TOML
+CastleSiegeSeniorMixUnlimitedUse = 1
+DisableTeleportAttack = 0
+DKComboDamagePvMConstA = 2
+DKComboDamagePvMConstB = 1
+⚪ Desenvolvimentos Menores (Secundário)
+Elf Soldier: Adicionar a opção de ignorar os diálogos/quests ao clicar no NPC e receber diretamente o buff de iniciante.
+
+Opção de Compra de Baú (Warehouse):
+
+Ini, TOML
+CommandWareBuyEnable_AL0 = 1
+CommandWareBuyEnable_AL1 = 1
+CommandWareBuyEnable_AL2 = 1
+CommandWareBuyEnable_AL3 = 1
+CommandWareBuyMax_AL0 = 10
+CommandWareBuyMax_AL1 = 20
+CommandWareBuyMax_AL2 = 20
+CommandWareBuyMax_AL3 = 50
+CommandWareBuyCoin1 = 5
+CommandWareBuyCoin2 = 0
+CommandWareBuyCoin3 = 0
+🟢 Configurações de Skills & Efeitos (Settings)
+Ini, TOML
+;==================================================
+; Death Stab Skill Hit Multiplier
+;==================================================
+DeathStabHitMultiplier = 4
+
+;==================================================
+; Attack when use Teleport skill
+;==================================================
+DisableTeleportAttack = 0
+
+;==================================================
+; Disable Teleport Skill when Immobilized (Ex. By Ice arrow)
+;==================================================
+DisableTeleportImmobilized = 1
+
+;==================================================
+; Disable Twist Slash Multi Attack on Castle Siege
+;==================================================
+DisableTwistSlashMultiAttack = 1
+
+;==================================================
+; Earth Quake Skill Settings
+;==================================================
+EarthquakeThrowDistance = 2
+
+;==================================================
+; Ice Arrow Skill Settings
+;==================================================
+IceArrowSkillRate = 40
+IceArrowSkillTime = 3
+
+;==================================================
+; Crystal Sword and Crystal morning star ice rate 
+;==================================================
+CrystalIceRate = 20
+
+;==================================================
+; Combo always push and show effect after kill
+;==================================================
+ComboEffectEnable = 1
+
+;==================================================
+; Skill/Effect Replace (DEBUFF)
+;==================================================
+SkillEffectReplace = 1
+
+;==================================================
+; Skill Effects (push/rates)
+;==================================================
+LightningEffectRate  = 70
+CycloneEffectRate  = 0
+TwistEffectRate  = 0
+LungEffectRate  = 0
+FallingEffectRate  = 0
+UpperCutEffectRate  = 0
+SlashEffectRate  = 0
+🟢 Castle Siege (Settings)
+Ini, TOML
+CastleSiegeDamageRate4 = 0              ;Percentagem de dano aplicado de Non-CS User para CS User.
+CastleSiegeDamageRate5 = 100            ;Percentagem de dano aplicado de CS User para Non-CS User.
+CastleSiegeDamageRate6 = 100            ;Percentagem de dano aplicado de Non-CS User para Non-CS User.
+CastleSiegeDamageRate7 = 5              ;Percentagem de dano aplicado de Non-CS User em portas e estátuas.
+CastleSiegeDamageRateUserCrown = 60
