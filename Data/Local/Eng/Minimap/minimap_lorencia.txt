@@ -1,0 +1,101 @@
+16
+2	6	40	0	Gate Devias
+2	240	13	0	Gate Loren Deep
+2	123	231	0	Gate Dungeon
+2	215	245	0	Gate Noria
+2	112	70	0	Referencia - Speedway
+2	139	218	0	Referencia - Cemetery
+2	122	126	0	Referencia - Pub
+4	122	110	0	Trainer
+4	125	144	0	Wandering Merchant Alex
+4	63	130	0	Wandering Merchant Alex
+4	129	144	0	Wandering Merchant
+4	183	137	0	Wandering Merchant
+4	127	86	0	Potion Girl Amy
+4	116	141	0	Hanzo the Blacksmith
+4	123	135	0	Lumen the Barmaid
+4	125	135	0	Liaman the Barmaid
+4	118	113	0	Pasi the Mage
+4	56	244	0	Guard
+4	173	125	0	Guard
+4	94	130	0	Guard
+4	94	125	0	Guard
+4	131	148	0	Guard
+4	148	145	0	Safety Guardian
+4	146	110	0	Safety Guardian
+4	96	129	0	Shadow Phantom Soldier
+4	132	161	0	Chaos Card Master
+4	132	165	0	Shadow Phantom Soldier
+4	132	90	0	Shadow Phantom Soldier
+4	170	129	0	Shadow Phantom Soldier
+4	130	121	0	Shadow Phantom Soldier
+1	41	59	0	Spot
+1	186	128	0	Spot
+1	202	140	0	Spot
+1	210	120	0	Spot
+1	193	114	0	Spot
+1	165	89	0	Spot
+1	177	31	0	Spot
+1	192	20	0	Spot
+1	212	19	0	Spot
+1	88	21	0	Spot
+1	224	193	0	Spot
+1	232	166	0	Spot
+1	193	158	0	Spot
+1	224	78	0	Spot
+1	224	142	0	Spot
+1	148	76	0	Spot
+1	179	78	0	Spot
+1	137	46	0	Spot
+1	94	48	0	Spot
+1	137	181	0	Spot
+1	118	196	0	Spot
+1	158	175	0	Spot
+1	140	214	0	Spot
+1	83	123	0	Spot
+1	27	45	0	Spot
+1	160	51	0	Spot
+1	117	21	0	Spot
+1	188	49	0	Spot
+1	217	52	0	Spot
+1	222	107	0	Spot
+1	212	178	0	Spot
+1	202	232	0	Spot
+1	171	230	0	Spot
+1	94	214	0	Spot
+1	53	172	0	Spot
+1	79	195	0	Spot
+1	64	209	0	Spot
+1	73	57	0	Spot
+1	35	188	0	Spot
+1	32	156	0	Spot
+1	13	128	0	Spot
+1	76	77	0	Spot
+1	21	83	0	Spot
+1	91	98	0	Spot
+1	82	162	0	Spot
+1	51	96	0	Spot
+1	16	58	0	Spot
+1	23	27	0	Spot
+1	49	15	0	Spot
+0	0	0	0	
+0	0	0	0	
+0	0	0	0
+0	0	0	0	
+0	0	0	0	
+0	0	0	0
+0	0	0	0	
+0	0	0	0	
+0	0	0	0
+0	0	0	0	
+0	0	0	0	
+0	0	0	0
+0	0	0	0	
+0	0	0	0	
+0	0	0	0
+0	0	0	0	
+0	0	0	0	
+0	0	0	0
+0	0	0	0	
+0	0	0	0	
+0	0	0	0

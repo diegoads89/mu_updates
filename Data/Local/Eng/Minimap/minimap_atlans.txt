@@ -1,0 +1,101 @@
+16
+2	8	8	270	Entrance to Noria	
+2	9	18	225	Entrance to Elveland	
+2	10	228	225	Entrance to Tarkan	
+4	16	22	0	Safety Guardian
+6	23	25	0	Potion Girl Amy
+4	16	23	0	Shadow Phantom Soldier
+1	21	39	0	Spot
+1	48	47	0	Spot
+1	48	8	0	Spot
+1	40	70	0	Spot
+1	90	33	0	Spot
+1	49	97	0	Spot
+1	68	88	0	Spot
+1	81	18	0	Spot
+1	65	55	0	Spot
+1	20	121	0	Spot
+1	105	48	0	Spot
+1	56	30	0	Spot
+1	20	78	0	Spot
+1	108	23	0	Spot
+1	143	15	0	Spot
+1	225	106	0	Spot
+1	215	183	0	Spot
+1	215	183	0	Spot
+1	223	130	0	Spot
+1	206	99	0	Spot
+1	206	99	0	Spot
+1	223	88	0	Spot
+1	231	173	0	Spot
+1	50	184	0	Spot
+1	20	160	0	Spot
+1	175	142	0	Spot
+1	178	172	0	Spot
+1	187	96	0	Spot
+1	155	197	0	Spot
+1	77	214	0	Spot
+1	125	206	0	Spot
+1	125	206	0	Spot
+1	29	229	0	Spot
+1	33	204	0	Spot
+1	224	153	0	Spot
+1	239	12	0	Spot
+1	196	51	0	Spot
+1	63	146	0	Spot
+1	181	20	0	Spot
+1	110	97	0	Spot
+1	98	186	0	Spot
+1	98	186	0	Spot
+1	120	135	0	Spot
+1	81	123	0	Spot
+1	85	143	0	Spot
+1	135	170	0	Spot
+1	160	62	0	Spot
+1	158	117	0	Spot
+1	130	67	0	Spot
+1	49	159	0	Spot
+1	93	208	0	Spot
+1	229	205	0	Spot
+1	229	57	0	Spot
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		

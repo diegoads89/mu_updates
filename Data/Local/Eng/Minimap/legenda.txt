@@ -1,0 +1,7 @@
+type
+1 = flecha
+2 = gate / lupa
+3 = escudo
+4 = balão de comentario , NPC?
+5 = martelo
+6 = poção

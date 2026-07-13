@@ -1,0 +1,101 @@
+16
+2	248	149	45	Entrance to Atlans	
+2	19	27	225	Entrance to Devias	
+5	37	241	0	Lahap
+4	44	229	0	Silvia
+4	28	237	0	Rhea
+4	36	219	0	Marce
+4	43	191	0	Shadow Phantom Soldier
+4	57	232	0	Shadow Phantom Soldier
+4	73	220	0	Shadow Phantom Soldier
+4	50	229	0	Safety Guardian
+4	55	243	0	Mirage
+4	55	199	0	Wandering Merchant Zyro
+5	46	243	0	Seed Master
+5	50	243	0	Seed Researcher
+4	20	214	0	David
+6	99	219	0	Potion Girl
+6	37	222	0	Potion Girl
+4	49	216	0	Lugard (Respawn)
+1	51	150	0	Spot
+1	105	60	0	Spot
+1	118	108	0	Spot
+1	67	137	0	Spot
+1	193	144	0	Spot
+1	178	175	0	Spot
+1	222	72	0	Spot
+1	206	33	0	Spot
+1	159	64	0	Spot
+1	90	45	0	Spot
+1	111	215	0	Spot
+1	134	209	0	Spot
+1	139	144	0	Spot
+1	136	193	0	Spot
+1	48	83	0	Spot
+1	174	18	0	Spot
+1	73	58	0	Spot
+1	73	58	0	Spot
+1	83	17	0	Spot
+1	223	49	0	Spot
+1	122	167	0	Spot
+1	113	158	0	Spot
+1	101	137	0	Spot
+1	99	107	0	Spot
+1	117	90	0	Spot
+1	134	91	0	Spot
+1	173	73	0	Spot
+1	184	85	0	Spot
+1	187	36	0	Spot
+1	202	49	0	Spot
+1	207	15	0	Spot
+1	175	35	0	Spot
+1	194	174	0	Spot
+1	219	140	0	Spot
+1	123	43	0	Spot
+1	129	21	0	Spot
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		

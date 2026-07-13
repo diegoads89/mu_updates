@@ -1,0 +1,101 @@
+16
+2	164	0	315	Entrance to Devias	
+2	190	5	225	Lost Tower Level 2 Entrance	
+2	165	165	225	Lost Tower Level 3 Entrance	
+2	133	246	135	Lost Tower Level 4 Entrance	
+2	133	136	135	Lost Tower Level 5 Entrance	
+2	129	14	225	Lost Tower Level 6 Entrance	
+2	4	7	225	Lost Tower Level 7 Entrance	
+2	16	250	135	Entrance to Icarus	
+4	199	74	0	Safety Guardian
+6	206	82	0	Potion Girl Amy
+4	211	82	0	Shadow Phantom Soldier
+1	210	114	0	Spot
+1	219	107	0	Spot
+1	195	95	0	Spot
+1	227	24	0	Spot
+1	225	22	0	Spot
+1	196	114	0	Spot
+1	200	132	0	Spot
+1	243	125	0	Spot
+1	219	31	0	Spot
+1	190	44	0	Spot
+1	190	44	0	Spot
+1	209	49	0	Spot
+1	209	49	0	Spot
+1	191	16	0	Spot
+1	191	16	0	Spot
+1	165	126	0	Spot
+1	235	236	0	Spot
+1	245	247	0	Spot
+1	213	245	0	Spot
+1	213	245	0	Spot
+1	167	245	0	Spot
+1	185	208	0	Spot
+1	213	213	0	Spot
+1	195	179	0	Spot
+1	218	173	0	Spot
+1	100	170	0	Spot
+1	100	170	0	Spot
+1	83	191	0	Spot
+1	83	211	0	Spot
+1	84	246	0	Spot
+1	110	247	0	Spot
+1	114	217	0	Spot
+1	114	185	0	Spot
+1	100	232	0	Spot
+1	100	187	0	Spot
+1	87	97	0	Spot
+1	86	134	0	Spot
+1	102	134	0	Spot
+1	109	112	0	Spot
+1	102	87	0	Spot
+1	132	118	0	Spot
+1	129	34	0	Spot
+1	132	8	0	Spot
+1	112	25	0	Spot
+1	86	25	0	Spot
+1	84	56	0	Spot
+1	54	50	0	Spot
+1	105	56	0	Spot
+1	54	25	0	Spot
+1	13	24	0	Spot
+1	13	24	0	Spot
+1	22	10	0	Spot
+1	22	10	0	Spot
+1	53	91	0	Spot
+1	53	91	0	Spot
+1	21	102	0	Spot
+1	21	102	0	Spot
+1	6	98	0	Spot
+1	53	115	0	Spot
+1	53	115	0	Spot
+1	15	128	0	Spot
+1	53	134	0	Spot
+1	14	168	0	Spot
+1	54	208	0	Spot
+1	24	43	0	Spot
+1	8	238	0	Spot
+1	53	239	0	Spot
+1	7	190	0	Spot
+1	45	170	0	Spot
+1	30	212	0	Spot
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
+0	0	0	0		
