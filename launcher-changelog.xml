@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+  <version>1.0.5</version>
+  <entries>
+    <entry>Corrigido ignore de itens da pasta Object81</entry>
+    <entry>Corrigido problema de arquivos .pak e .msil</entry>
+  </entries>
+</changelog>
