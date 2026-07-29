@@ -13,7 +13,7 @@ local colors = {
 
 local win = ui.window("monster_damage_ranking", {
     title = "",
-    rect = ui.rect(175, 32, 290, 224),
+    rect = ui.rect(175, 32, 250, 224),
     fade_time = 0.12,
     closable = false,
     movable = true,
@@ -49,8 +49,8 @@ win:meta_table("damage_rows", {
     source = "monster_damage_ranking.rows",
     columns = {
         { header = "#", field = "{$position}", width = 28, align = "center" },
-        { header = "Personagem", field = "{$name}", width = 132, align = "left" },
-        { header = "Dano", field = "{$damage_text}", width = 104, align = "right" },
+        { header = "Character", field = "{$name}", width = 132, align = "left" },
+        { header = "Damage", field = "{$damage_text}", width = 104, align = "right" },
     },
     style = {
         show_background = true,
