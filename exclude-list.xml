@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exclude-list>
+  <entry>Data/Engine/bg_login.mpg</entry>
+</exclude-list>
