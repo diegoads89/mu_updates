@@ -1,0 +1,71 @@
+{
+  "audio" : 
+  {
+    "music_enabled" : true,
+    "music_volume" : 4,
+    "sound_enabled" : true,
+    "sound_volume" : 2
+  },
+  "display" : 
+  {
+    "font_size" : 15,
+    "height" : 1080,
+    "resolution_index" : 14,
+    "width" : 1920,
+    "windowed" : true
+  },
+  "gameplay" : 
+  {
+    "auto_attack" : true,
+    "automatic_pvp" : false,
+    "bloody_screen" : true,
+    "slide_help" : false,
+    "whisper_sound" : true
+  },
+  "graphics" : 
+  {
+    "directional_shadow_bias" : 0.001500000013038516,
+    "directional_shadow_intensity" : 0.44999998807907104,
+    "directional_shadow_resolution" : 1024,
+    "frame_rate_limit" : 60,
+    "post_process" : 
+    {
+      "anti_aliasing_enabled" : true,
+      "bloom_enabled" : false,
+      "bloom_intensity" : 0.82200002670288086,
+      "bloom_radius" : 0.83499997854232788,
+      "bloom_threshold" : 0.94800001382827759,
+      "color_grade_enabled" : false,
+      "contact_shadow_intensity" : 0.18000000715255737,
+      "contrast" : 1.0,
+      "debug_mode" : 0,
+      "enabled" : false,
+      "exposure" : 1.0,
+      "gamma" : 2.2000000476837158,
+      "gamma_correct_enabled" : false,
+      "highlight_compress" : 0.11999999731779099,
+      "quality_level" : 0,
+      "saturation" : 0.97000002861022949,
+      "scene_linearize_enabled" : false,
+      "shadow_lift" : 0.0099999997764825821,
+      "sharpen_enabled" : true,
+      "sharpen_intensity" : 1.1759999990463257,
+      "ssao_bias" : 0.02500000037252903,
+      "ssao_enabled" : true,
+      "ssao_intensity" : 1.2740999460220337,
+      "ssao_radius" : 2.4198000431060791,
+      "temperature" : -0.019999999552965164,
+      "tone_mapping_enabled" : false,
+      "tone_mapping_intensity" : 0.60000002384185791,
+      "vignette_intensity" : 0.05000000074505806
+    },
+    "remove_hp_bar" : false,
+    "render_effects" : true,
+    "render_equipment" : true,
+    "render_level" : 4,
+    "render_objects" : true,
+    "render_terrain" : true,
+    "world_shadow_mode" : 2
+  },
+  "version" : 4
+}

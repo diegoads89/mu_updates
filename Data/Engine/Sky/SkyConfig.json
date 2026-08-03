@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "default": {
+    "mode": "cubemap",
+    "cubemap": "Data/Engine/Sky/clean/sky",
+    "top_color": [0.36, 0.56, 0.78],
+    "horizon_color": [0.58, 0.66, 0.75],
+    "lower_hemisphere_color": [0.08, 0.09, 0.12],
+    "tint": [1.0, 1.0, 1.0],
+    "exposure": 1.0,
+    "intensity": 1.0,
+    "rotation": 0.0,
+    "lower_horizon": -0.18,
+    "upper_horizon": 0.08,
+    "fog": {
+      "enabled": false,
+      "match_sky_horizon": true,
+      "color": [0.58, 0.66, 0.75],
+      "start_ratio": 0.62,
+      "end_ratio": 1.0
+    }
+  },
+  "maps": {
+    "0": {
+      "fog": {
+        "enabled": true
+      }
+    },
+    "10": {
+      "mode": "disabled",
+      "fog": {
+        "enabled": false,
+        "disable_legacy": true
+      }
+    }
+  }
+}
