@@ -2,28 +2,316 @@
   "version": 1,
   "default": {
     "mode": "cubemap",
-    "cubemap": "Data/Engine/Sky/clean/sky",
-    "top_color": [0.36, 0.56, 0.78],
-    "horizon_color": [0.58, 0.66, 0.75],
-    "lower_hemisphere_color": [0.08, 0.09, 0.12],
-    "tint": [1.0, 1.0, 1.0],
-    "exposure": 1.0,
-    "intensity": 1.0,
-    "rotation": 0.0,
+    "cubemap": "Data/Engine/Sky/dark/sky",
+    "top_color": [
+      0.079,
+      0.069,
+      0.07
+    ],
+    "horizon_color": [
+      0.079,
+      0.069,
+      0.07
+    ],
+    "lower_hemisphere_color": [
+      0.079,
+      0.069,
+      0.07
+    ],
+    "tint": [
+      1,
+      1,
+      1
+    ],
+    "exposure": 1,
+    "intensity": 1,
+    "rotation": 0,
     "lower_horizon": -0.18,
     "upper_horizon": 0.08,
     "fog": {
-      "enabled": false,
-      "match_sky_horizon": true,
-      "color": [0.58, 0.66, 0.75],
-      "start_ratio": 0.62,
-      "end_ratio": 1.0
+      "enabled": true,
+      "disable_legacy": true,
+      "match_sky_horizon": false,
+      "color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "start_ratio": 0.7,
+      "end_ratio": 0.8
     }
   },
   "maps": {
     "0": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "horizon_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "lower_hemisphere_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
       "fog": {
-        "enabled": true
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.079,
+          0.069,
+          0.07
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "1": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "horizon_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "lower_hemisphere_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.079,
+          0.069,
+          0.07
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "2": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/clean/sky",
+      "top_color": [
+        0.7,
+        0.77,
+        0.8
+      ],
+      "horizon_color": [
+        0.7,
+        0.77,
+        0.8
+      ],
+      "lower_hemisphere_color": [
+        0.7,
+        0.77,
+        0.8
+      ],
+      "tint": [
+        1.008,
+        1.269,
+        1.3
+      ],
+      "intensity": 0.7,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.7,
+          0.77,
+          0.8
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "3": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.044,
+        0.063,
+        0.042
+      ],
+      "horizon_color": [
+        0.044,
+        0.063,
+        0.042
+      ],
+      "lower_hemisphere_color": [
+        0.044,
+        0.063,
+        0.042
+      ],
+      "tint": [
+        0.8,
+        1.3,
+        0.85
+      ],
+      "intensity": 0.7,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.044,
+          0.063,
+          0.042
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "4": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "horizon_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "lower_hemisphere_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.079,
+          0.069,
+          0.07
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "7": {
+      "mode": "gradient",
+      "top_color": [
+        0.3,
+        0.45,
+        0.49
+      ],
+      "horizon_color": [
+        0.16,
+        0.33,
+        0.36
+      ],
+      "lower_hemisphere_color": [
+        0.07,
+        0.16,
+        0.18
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.16,
+          0.33,
+          0.36
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "8": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "horizon_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "lower_hemisphere_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.079,
+          0.069,
+          0.07
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
       }
     },
     "10": {
@@ -31,6 +319,318 @@
       "fog": {
         "enabled": false,
         "disable_legacy": true
+      }
+    },
+    "51": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/clean/sky",
+      "top_color": [
+        0.82,
+        0.78,
+        0.7
+      ],
+      "horizon_color": [
+        0.82,
+        0.78,
+        0.7
+      ],
+      "lower_hemisphere_color": [
+        0.82,
+        0.78,
+        0.7
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.82,
+          0.78,
+          0.7
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "57": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/clean/sky",
+      "top_color": [
+        0.7,
+        0.77,
+        0.8
+      ],
+      "horizon_color": [
+        0.7,
+        0.77,
+        0.8
+      ],
+      "lower_hemisphere_color": [
+        0.7,
+        0.77,
+        0.8
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.7,
+          0.77,
+          0.8
+        ],
+        "start_ratio": 0.8,
+        "end_ratio": 0.98
+      }
+    },
+    "63": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.083,
+        0.041,
+        0.039
+      ],
+      "horizon_color": [
+        0.083,
+        0.041,
+        0.039
+      ],
+      "lower_hemisphere_color": [
+        0.083,
+        0.041,
+        0.039
+      ],
+      "tint": [
+        1.5,
+        0.85,
+        0.8
+      ],
+      "intensity": 0.7,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.083,
+          0.041,
+          0.039
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "84": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.077,
+        0.091,
+        0.125
+      ],
+      "horizon_color": [
+        0.077,
+        0.091,
+        0.125
+      ],
+      "lower_hemisphere_color": [
+        0.077,
+        0.091,
+        0.125
+      ],
+      "tint": [
+        0.85,
+        1.15,
+        1.55
+      ],
+      "intensity": 1.15,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.077,
+          0.091,
+          0.125
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "89": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.037,
+        0.034,
+        0.044
+      ],
+      "horizon_color": [
+        0.037,
+        0.034,
+        0.044
+      ],
+      "lower_hemisphere_color": [
+        0.037,
+        0.034,
+        0.044
+      ],
+      "tint": [
+        0.85,
+        0.9,
+        1.15
+      ],
+      "intensity": 0.55,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.037,
+          0.034,
+          0.044
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "101": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.111,
+        0.036,
+        0.034
+      ],
+      "horizon_color": [
+        0.111,
+        0.036,
+        0.034
+      ],
+      "lower_hemisphere_color": [
+        0.111,
+        0.036,
+        0.034
+      ],
+      "tint": [
+        2,
+        0.75,
+        0.7
+      ],
+      "intensity": 0.7,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.111,
+          0.036,
+          0.034
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "105": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.083,
+        0.041,
+        0.039
+      ],
+      "horizon_color": [
+        0.083,
+        0.041,
+        0.039
+      ],
+      "lower_hemisphere_color": [
+        0.083,
+        0.041,
+        0.039
+      ],
+      "tint": [
+        1.5,
+        0.85,
+        0.8
+      ],
+      "intensity": 0.7,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.083,
+          0.041,
+          0.039
+        ],
+        "start_ratio": 0.7,
+        "end_ratio": 0.8
+      }
+    },
+    "172": {
+      "mode": "cubemap",
+      "cubemap": "Data/Engine/Sky/dark/sky",
+      "top_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "horizon_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "lower_hemisphere_color": [
+        0.079,
+        0.069,
+        0.07
+      ],
+      "tint": [
+        1,
+        1,
+        1
+      ],
+      "intensity": 1,
+      "lower_horizon": -0.18,
+      "upper_horizon": 0.08,
+      "fog": {
+        "enabled": true,
+        "disable_legacy": true,
+        "match_sky_horizon": false,
+        "color": [
+          0.079,
+          0.069,
+          0.07
+        ],
+        "start_ratio": 0.5,
+        "end_ratio": 0.68
       }
     }
   }
