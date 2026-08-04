@@ -1,30 +1,58 @@
-31@1@115@Pack Boost (EXP)@170@50@Bundle Includes:       #* Seal of Wealth (30 Days)       #* Seal of Ascension (30 Days)       #* Max AG Boost Aura (30 Days)       #* Imp (30 Days)       #* Guardian Angel (30 Days)       #* Wizards Ring (30 Days)@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1200|1190|1180|10000|10001|10002|@7303@2@1@@0@508@669
-31@2@114@Pack Buffs@170@50@Bundle Includes:     #* Scroll of Quickness (30 Days)     #* Scroll of Mana (30 Days)     #* Scroll of Defense (30 Days)     #* Scroll of Wrath (30 Days)     #* Scroll of Wizardry (30 Days)     #* Scroll of Health (30 Days)@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1060|1070|1170|1380|1390|1400|@7302@2@1@@0@508@669
-32@2@119@Seal of Ascension@170@5@Increases experience gained by 10% #--- Info --- #Not applicable to Master Level #You may use it with Seal of Healing or Seal of Divinity.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1190|@6699@2@1@1190|@0@508@669
-32@3@120@Seal of Wealth@170@10@Increases experience rate by 40% #Improves item drop rate by 10% #--- Info --- #Not applicable to Master Level #You may use it with Seal of Healing or Seal of Divinity.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1200|@6700@2@1@1200|@0@508@669
-33@1@121@Master Seal of Ascension@170@10@Increases Master experience gained by 20% #--- Info --- #Not applicable to Normal Level@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1210|@6749@2@1@1210|@0@508@669
-33@2@122@Master Seal of Wealth@170@10@Increases Master experience gained by 50% #Improves item drop rate by 20% #--- Info --- #Not applicable to Normal Level@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1220|@6750@2@1@1220|@0@508@669
+31@1@115@Pack Boost@170@35@Bundle Includes:           #* Seal of Wealth (30 Days)           #* Seal of Ascension (30 Days)           #* Max AG Boost Aura (30 Days)           #* Imp (30 Days)           #* Guardian Angel (30 Days)           #* Wizards Ring (30 Days)@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1200|1190|1180|10000|10001|10002|@7303@2@1@@0@508@669
+31@2@114@Pack Buffs@170@25@Bundle Includes:      #* Scroll of Quickness (30 Days)      #* Scroll of Mana (30 Days)      #* Scroll of Defense (30 Days)      #* Scroll of Wrath (30 Days)      #* Scroll of Wizardry (30 Days)      #* Scroll of Health (30 Days)@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1060|1070|1170|1380|1390|1400|@7302@2@1@@0@508@669
+32@1@119@Seal of Ascension@170@5@Increases experience gained by 10%   #--- Info ---   #Not applicable to Master Level   #You may use it with Seal of Healing or Seal of Divinity.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1190|@6699@2@1@1190|@0@508@669
+32@2@120@Seal of Wealth@170@10@Increases experience rate by 40%   #Improves item drop rate by 10%   #--- Info ---   #Not applicable to Master Level   #You may use it with Seal of Healing or Seal of Divinity.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1200|@6700@2@1@1200|@0@508@669
+33@1@121@Master Seal of Ascension@170@10@Increases Master experience gained by 20%   #--- Info ---   #Not applicable to Normal Level@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1210|@6749@2@1@1210|@0@508@669
+33@2@122@Master Seal of Wealth@170@15@Increases Master experience gained by 50%  #Improves item drop rate by 20%  #--- Info ---  #Not applicable to Normal Level@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1220|@6750@2@1@1220|@0@508@669
 34@1@100@Talisman of Luck@170@2@Increases the chance of a combination in the chaos machine by 1%, remembering that you can use a maximum of 15 in the same combination@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1000|@7221@2@2@1000|1001|@0@508@669
 34@2@108@Fragment of Chaos Assembly@170@10@You will need 10 units of this fragment to complete the craft MIX of the Talisman of Chaos Assembly@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1080|@7354@2@1@1080|@0@508@669
 34@3@101@Indulgence@170@10@Used to Remove PK@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1010|@6716@2@1@1010|@0@508@669
 34@4@102@Magic Backpack@170@5@Inventory Expansion    #Expansao do Inventario@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1020|@7330@2@1@1020|@0@508@669
 34@5@103@Vault Expansion Certificate@170@10@Vault Expansion     #Expansao do Bau@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1030|@7331@2@1@1030|@0@508@669
-34@6@104@Wizards Ring@170@10@ATK\WIZ DMG +10%         #ATK Speed +10@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1040|@6676@2@3@1040|1041|1042|@0@508@669
-34@7@105@Pendant of Lighting@170@10@Permanent Pendant +Mana@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1050|@6668@2@1@1050|@0@508@669
+34@6@104@Wizards Ring@170@5@ATK\WIZ DMG +10%          #ATK Speed +10@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1040|@6676@2@1@1040|@0@508@669
+34@7@105@Pendant of Lighting@170@5@Permanent Pendant +Mana@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1050|@6668@2@1@1050|@0@508@669
+34@8@169@Silver Key@170@1@Use to Open Sealed Silver Box@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1690|@7280@2@1@1690|@0@508@669
+34@9@170@Gold Key@170@2@Use to Open Sealed Golden Box@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1700|@7281@2@1@1700|@0@508@669
 35@1@118@Max AG Boost Aura@170@10@*Increase AG gained         #   @@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1180|@6760@2@1@1180|@0@508@669
-35@2@106@Scroll of Quickness@170@10@Increases Attack Speed by +15.#You cannot use Scroll of Protection,Wrath,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1060|@7240@2@1@1060|@0@508@669
-35@3@107@Scroll of Mana@170@10@Increases MP by +300. #You cannot use Scroll of Quickness,Protection,Wrath,Wizardry and Scroll of Health at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1070|@7245@2@1@1070|@0@508@669
-35@4@117@Scroll of Defense@170@10@Increases Defense by +60. #You cannot use Scroll of Quickness,Wrath,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1170|@7241@2@1@1170|@0@508@669
-35@5@138@Scroll of Wrath@170@10@Increases Attack Power by +30  #You cannot use Scroll of Quickness,Protection,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1380|@7242@2@1@1380|@0@508@669
-35@6@139@Scroll of Wizardry@170@10@Increases Wizardry by +30. #You cannot use Scroll of Quickness,Protection,Wrath,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1390|@7243@2@1@1390|@0@508@669
-35@7@140@Scroll of Health@170@10@Increases HP by +200. #You cannot use Scroll of Quickness,Protection,Wrath,Wizardry and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1400|@7244@2@1@1400|@0@508@669
+35@2@106@Scroll of Quickness@170@5@Increases Attack Speed by +15.  #You cannot use Scroll of Protection,Wrath,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1060|@7240@2@1@1060|@0@508@669
+35@3@107@Scroll of Mana@170@5@Increases MP by +300.   #You cannot use Scroll of Quickness,Protection,Wrath,Wizardry and Scroll of Health at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1070|@7245@2@1@1070|@0@508@669
+35@4@117@Scroll of Defense@170@5@Increases Defense by +60.   #You cannot use Scroll of Quickness,Wrath,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1170|@7241@2@1@1170|@0@508@669
+35@5@138@Scroll of Wrath@170@5@Increases Attack Power by +30    #You cannot use Scroll of Quickness,Protection,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1380|@7242@2@1@1380|@0@508@669
+35@6@139@Scroll of Wizardry@170@5@Increases Wizardry by +30.   #You cannot use Scroll of Quickness,Protection,Wrath,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1390|@7243@2@1@1390|@0@508@669
+35@7@140@Scroll of Health@170@5@Increases HP by +200.   #You cannot use Scroll of Quickness,Protection,Wrath,Wizardry and Scroll of Mana at the same time.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1400|@7244@2@1@1400|@0@508@669
 36@1@126@Blood Castle Ticket@170@5@Use to event Blood Castle ( 10 U ).@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1260|@6703@2@1@1260|@0@508@669
 36@2@127@Devil Square Ticket@170@5@Use to event Devil Square ( 10 U ).@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1270|@6702@2@1@1270|@0@508@669
-36@3@128@Kalima Ticket@170@5@Ticket Kalima ( 10 U ).@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1280|@6704@2@1@1280|@0@508@669
-41@1@123@Blood Castle Ticket@170@50@Use to event Blood Castle ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1230|@6703@3@1@1230|@0@509@669
-41@2@124@Devil Square Ticket@170@50@Use to event Devil Square ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1240|@6702@3@1@1240|@0@509@669
-41@3@125@Kalima Ticket@170@50@Ticket Kalima ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1250|@6704@3@1@1250|@0@509@669
-42@1@110@Fragment of Chaos Assembly@170@500@You will need 10 units of this fragment to complete the craft MIX of the Talisman of Chaos Assembly@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1100|@7354@3@1@1100|@0@509@669
+36@3@171@Access Ticket to Chaos Castle@170@5@Use to event Blood Castle ( 10 U ).@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1710|@6777@2@1@1710|@0@508@669
+36@4@128@Kalima Ticket@170@5@Ticket Kalima ( 10 U ).@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1280|@6704@2@1@1280|@0@508@669
+37@1@152@Pet Panda@170@5@EXP 10% increase           #Collets Zen around           #Increase defensive skill +50.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1520|@6736@2@3@1520|1521|1522|@0@508@669
+37@2@153@Imp@170@5@Increase Attack Power and Wizardry@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1530|@6657@2@1@1530|@0@508@669
+37@3@154@Guardian Angel@170@5@Absorb Damage  #Increase HP +50@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1540|@6656@2@1@1540|@0@508@669
+41@1@123@Blood Castle Ticket@170@30@Use to event Blood Castle ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1230|@6703@3@1@1230|@0@509@669
+41@2@124@Devil Square Ticket@170@30@Use to event Devil Square ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1240|@6702@3@1@1240|@0@509@669
+41@3@125@Kalima Ticket@170@30@Ticket Kalima ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1250|@6704@3@1@1250|@0@509@669
+42@1@110@Fragment of Chaos Assembly@170@100@You will need 10 units of this fragment to complete the craft MIX of the Talisman of Chaos Assembly@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1100|@7354@3@1@1100|@0@509@669
+42@2@167@Wizards Ring@170@20@ATK\WIZ DMG +10%            #ATK Speed +10@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1670|@6676@3@1@1670|@0@509@669
+42@3@168@Indulgence@170@20@Used to Remove PK@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1680|@6716@3@1@1680|@0@509@669
+42@4@172@Silver Key@170@5@Use to Open Sealed Silver Box@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1720|@7280@3@1@1720|@0@509@669
+42@5@173@Gold Key@170@10@Use to Open Sealed Golden Box@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1730|@7281@3@1@1730|@0@509@669
+43@1@109@Scroll of Wizardry Enhance@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1090|@7708@3@1@1090|@0@509@669
+43@2@111@Scroll of Gigantic Storm@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1110|@7709@3@1@1110|@0@509@669
+43@3@112@Crystal of Destruction@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1120|@6188@3@1@1120|@0@509@669
+43@4@113@Crystal of Multi-Shot@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1130|@6189@3@1@1130|@0@509@669
+43@5@116@Crystal of Recovery@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1160|@6190@3@1@1160|@0@509@669
+43@6@141@Crystal of Flame Strike@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1410|@6191@3@1@1410|@0@509@669
+43@7@142@Scroll of Chaotic Diseier@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1420|@6192@3@1@1420|@0@509@669
+43@8@143@Lightning Shock Parchment@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1430|@7701@3@1@1430|@0@509@669
+43@9@144@Dark Side Parchment@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1440|@7711@3@1@1440|@0@509@669
+43@10@145@Chain Drive Parchment@170@50@@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1450|@7710@3@1@1450|@0@509@669
+44@1@146@Scroll of Defense@170@20@Increases Defense by +60.  #You cannot use Scroll of Quickness,Wrath,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1460|@7241@3@1@1460|@0@509@669
+44@2@147@Scroll of Mana@170@20@Increases MP by +300.  #You cannot use Scroll of Quickness,Protection,Wrath,Wizardry and Scroll of Health at the same time.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1470|@7245@3@1@1470|@0@509@669
+44@3@148@Scroll of Quickness@170@20@Increases Attack Speed by +15. #You cannot use Scroll of Protection,Wrath,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1480|@7240@3@1@1480|@0@509@669
+44@4@149@Scroll of Wrath@170@20@Increases Attack Power by +30   #You cannot use Scroll of Quickness,Protection,Wizardry,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1490|@7242@3@1@1490|@0@509@669
+44@5@150@Scroll of Wizardry@170@20@Increases Wizardry by +30.  #You cannot use Scroll of Quickness,Protection,Wrath,Health and Scroll of Mana at the same time.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1500|@7243@3@1@1500|@0@509@669
+44@6@151@Scroll of Health@170@20@Increases HP by +200.  #You cannot use Scroll of Quickness,Protection,Wrath,Wizardry and Scroll of Mana at the same time.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1510|@7244@3@1@1510|@0@509@669
+45@1@165@Imp@170@5@Increase Attack Power and Wizardry@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1650|@6657@3@1@1650|@0@509@669
+45@2@166@Guardian Angel@170@5@Absorb Damage    #Increase HP +50@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1660|@6656@3@1@1660|@0@509@669
 61@1@129@Scroll of Evil Spirit@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1290|@7688@5@1@1290|@1@0@669
 61@2@132@Scroll of Hellfire@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1320|@7689@5@1@1320|@1@0@669
 61@3@130@Orb of Death Stab@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1300|@6163@5@1@1300|@1@0@669
@@ -34,3 +62,13 @@
 61@7@135@Scroll of FireBurst@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1350|@6165@5@1@1350|@1@0@669
 61@8@136@Chain Lightning Parchment@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1360|@7699@5@1@1360|@1@0@669
 61@9@137@Dragon Roar Parchment@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1370|@7712@5@1@1370|@1@0@669
+62@1@155@Scroll of Wizardry Enhance@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1550|@7708@5@1@1550|@1@0@669
+62@2@156@Scroll of Gigantic Storm@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1560|@7709@5@1@1560|@1@0@669
+62@3@157@Crystal of Destruction@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1570|@6188@5@1@1570|@1@0@669
+62@4@158@Crystal of Multi-Shot@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1580|@6189@5@1@1580|@1@0@669
+62@5@159@Crystal of Recovery@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1590|@6190@5@1@1590|@1@0@669
+62@6@160@Crystal of Flame Strike@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1600|@6191@5@1@1600|@1@0@669
+62@7@161@Scroll of Chaotic Diseier@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1610|@6192@5@1@1610|@1@0@669
+62@8@162@Lightning Shock Parchment@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1620|@7701@5@1@1620|@1@0@669
+62@9@163@Dark Side Parchment@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1630|@7711@5@1@1630|@1@0@669
+62@10@164@Chain Drive Parchment@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1640|@7710@5@1@1640|@1@0@669
