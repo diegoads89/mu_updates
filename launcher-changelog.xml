@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.0.9</version>
-  <entries>
-    <entry>Botão de renderização agora mostra "OpenGL3" ou "Legacy" conforme o estado, com dica ao passar o mouse</entry>
-    <entry>Corrigido erro ao abrir Configurações quando Resolutions.xml estava faltando (agora é criado automaticamente)</entry>
-    <entry>Corrigido bug onde o launcher podia sincronizar de volta para uma versão mais antiga do jogo</entry>
-  </entries>
+  <version>1.0.10</version>
+  <entries />
 </changelog>
