@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<changelog>
+  <version>1.4.5</version>
+  <entries>
+    <entry>Corrigido modo Legacy ( para PCs antigos )</entry>
+  </entries>
+</changelog>
