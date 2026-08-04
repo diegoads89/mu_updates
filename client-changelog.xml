@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.4.6</version>
-  <entries>
-    <entry>Corrigido sensação de lentidão após usar o Teleport ( SM )</entry>
-    <entry>Corrigido bug ao nascer personagem ou mover de mapa no Modo Legacy</entry>
-  </entries>
+  <version>1.4.7</version>
+  <entries />
 </changelog>
