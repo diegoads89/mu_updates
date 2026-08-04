@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.0.7</version>
-  <entries />
+  <version>1.0.8</version>
+  <entries>
+    <entry>Atualizado Launcher para suportar modo Legacy</entry>
+  </entries>
 </changelog>
