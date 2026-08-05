@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.4.8</version>
-  <entries>
-    <entry>CashShop Atualizada, com preços mais acessiveis</entry>
-    <entry>Corrigido bug ao nascer personagem no modo Legacy</entry>
-  </entries>
+  <version>1.4.9</version>
+  <entries />
 </changelog>
