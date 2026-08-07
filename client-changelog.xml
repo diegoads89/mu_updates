@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.1</version>
-  <entries>
-    <entry>Cliente 100% fixado para a Inauguração</entry>
-    <entry>Corrigido as opções no menu de configurações do Launcher</entry>
-    <entry>Adicionado seletor de desempenho no primeiro inicio do Launcher</entry>
-  </entries>
+  <version>1.5.2</version>
+  <entries />
 </changelog>
