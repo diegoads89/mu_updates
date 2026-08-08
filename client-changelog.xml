@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.5</version>
-  <entries>
-    <entry>Separado SideBar do Launcher.exe para evitar problemas com o DMO</entry>
-  </entries>
+  <version>1.5.6</version>
+  <entries />
 </changelog>
