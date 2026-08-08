@@ -1,0 +1,36 @@
+{
+  "audio": {
+    "music_enabled": true,
+    "music_volume": 5,
+    "sound_enabled": true,
+    "sound_volume": 5
+  },
+  "display": {
+    "font_size": 13,
+    "height": 600,
+    "width": 800,
+    "resolution_index": 0,
+    "windowed": true
+  },
+  "gameplay": {
+    "auto_attack": true,
+    "automatic_pvp": false,
+    "whisper_sound": true
+  },
+  "graphics": {
+    "frame_rate_limit": 120,
+    "remove_hp_bar": false,
+    "render_effects": true,
+    "render_equipment": true,
+    "render_objects": true,
+    "render_terrain": true,
+    "render_level": 4,
+    "world_shadow_mode": 2,
+    "desktop_renderer": {
+      "mode": 0,
+      "last_working_mode": 0,
+      "pending_mode": 0
+    }
+  },
+  "show_startup_dialog": true
+}
