@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.3.7</version>
-  <entries />
+  <version>1.3.8</version>
+  <entries>
+    <entry>Corrigido: o launcher podia ficar preso numa versão desatualizada mesmo mostrando "versão atual" — agora o self-update verifica o conteúdo real do arquivo (hash), não só o número da versão</entry>
+  </entries>
 </changelog>
