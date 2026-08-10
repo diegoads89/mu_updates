@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.4.6</version>
-  <entries />
+  <version>1.4.7</version>
+  <entries>
+    <entry>Adicionada a opção de mudar Cursor para Original ou Legend</entry>
+    <entry>Adicionada a opção de mudar interface para Seaon 6 Classico ou Legend</entry>
+    <entry>Adicionado reforço de verificação de arquivos ( evita launcher atualizado mas arquivos não )</entry>
+  </entries>
 </changelog>
