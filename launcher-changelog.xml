@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.4.0</version>
-  <entries />
+  <version>1.4.1</version>
+  <entries>
+    <entry>Opção de Troca do Tipo de Cursor Adicionada</entry>
+    <entry>Opção de Troca total da Interface do Jogo Adicionada (beta)</entry>
+  </entries>
 </changelog>
