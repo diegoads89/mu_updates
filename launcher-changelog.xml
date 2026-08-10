@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.0</version>
+  <version>1.5.1</version>
   <entries>
     <entry>Adicionada a opção de alterar o Cursor do Jogo nas opções do Launcher</entry>
     <entry>Adicionada a opção de alterar a Interface do Jogo ( Season 6 ou Legend )</entry>
