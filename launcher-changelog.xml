@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.4.8</version>
+  <version>1.4.9</version>
   <entries>
-    <entry>Adicionada a opção de mudar Cursor para Original ou Legend</entry>
-    <entry>Adicionada a opção de mudar interface para Seaon 6 Classico ou Legend</entry>
-    <entry>Adicionado reforço de verificação de arquivos ( evita launcher atualizado mas arquivos não )</entry>
+    <entry>Adicionada a opção de alterar o Cursor do Jogo nas opções do Launcher</entry>
+    <entry>Adicionada a opção de alterar a Interface do Jogo ( Season 6 ou Legend )</entry>
+    <entry>Corrigido um bug onde impedia a atualização de alguns arquivos em certas pastas</entry>
   </entries>
 </changelog>
