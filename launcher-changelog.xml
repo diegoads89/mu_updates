@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.7</version>
+  <version>1.5.8</version>
   <entries>
-    <entry>Reconciliacao rapida nao depende mais do zip da interface e nao trava mais silenciosamente em caso de erro</entry>
-    <entry>Adicionado log de diagnostico para futuros casos de Main.exe/Connect.msil nao aplicados</entry>
+    <entry>Diagnostico automatico da reconciliacao de interface (envio anonimo, uma vez por estado)</entry>
   </entries>
 </changelog>
