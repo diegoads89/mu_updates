@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.8</version>
+  <version>1.5.9</version>
   <entries>
-    <entry>Diagnostico automatico da reconciliacao de interface (envio anonimo, uma vez por estado)</entry>
+    <entry>Diagnostico automatico tambem no self-update do proprio Launcher.exe</entry>
   </entries>
 </changelog>
