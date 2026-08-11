@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.3</version>
+  <version>1.5.2</version>
   <entries>
-    <entry>Corrigido um bug onde mudancas em Data/Local (ex: Connect.msil) nao eram detectadas para reaplicar automaticamente</entry>
+    <entry>Adicionada a opção de alterar o Cursor do Jogo nas opções do Launcher</entry>
+    <entry>Adicionada a opção de alterar a Interface do Jogo ( Season 6 ou Legend )</entry>
+    <entry>Corrigido um bug onde impedia a atualização de alguns arquivos em certas pastas</entry>
   </entries>
 </changelog>
