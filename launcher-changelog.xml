@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.2</version>
+  <version>1.5.3</version>
   <entries>
-    <entry>Botao Jogar com texto maior e mais destacado</entry>
-    <entry>Janela de Configuracoes menos transparente</entry>
-    <entry>Bandeiras reais no seletor de idioma (botao e menu)</entry>
-    <entry>Dicas explicativas nos novos botoes de Cursor e Interface</entry>
-    <entry>Tela de "Alterando Interface" com progresso real e frases rotativas</entry>
+    <entry>Corrigido um bug onde mudancas em Data/Local (ex: Connect.msil) nao eram detectadas para reaplicar automaticamente</entry>
   </entries>
 </changelog>
