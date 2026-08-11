@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.6</version>
+  <version>1.5.7</version>
   <entries>
-    <entry>Adicionada a opção de alterar o Cursor do Jogo nas opções do Launcher</entry>
-    <entry>Adicionada a opção de alterar a Interface do Jogo ( Season 6 ou Legend )</entry>
-    <entry>Corrigido um bug onde impedia a atualização de alguns arquivos em certas pastas</entry>
+    <entry>Reconciliacao rapida nao depende mais do zip da interface e nao trava mais silenciosamente em caso de erro</entry>
+    <entry>Adicionado log de diagnostico para futuros casos de Main.exe/Connect.msil nao aplicados</entry>
   </entries>
 </changelog>
