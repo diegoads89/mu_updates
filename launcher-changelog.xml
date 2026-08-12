@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.6.2</version>
+  <version>1.6.3</version>
   <entries>
-    <entry>Corrigido: se Main.exe, av-code45.pak ou Connect.msil sumissem do destino, a reconciliacao nao detectava e nao repunha (o fingerprint so olhava a fonte)</entry>
+    <entry>Se o jogo (ou o chat de voz) estiver aberto e houver atualizacao pendente, agora pergunta se pode fechar pra aplicar</entry>
+    <entry>Nao diz mais "Cliente atualizado" quando o jogador optou por nao aplicar uma atualizacao pendente</entry>
   </entries>
 </changelog>
