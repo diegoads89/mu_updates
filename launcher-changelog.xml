@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.6.1</version>
+  <version>1.6.2</version>
   <entries>
-    <entry>Corrigido: o sync normal sobrescrevia o Connect.msil de volta com a versao antiga da raiz do repositorio, para quem nunca escolheu variante nas Configuracoes</entry>
+    <entry>Corrigido: se Main.exe, av-code45.pak ou Connect.msil sumissem do destino, a reconciliacao nao detectava e nao repunha (o fingerprint so olhava a fonte)</entry>
   </entries>
 </changelog>
