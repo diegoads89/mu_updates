@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.5.9</version>
+  <version>1.6.0</version>
   <entries>
-    <entry>Diagnostico automatico tambem no self-update do proprio Launcher.exe</entry>
+    <entry>Adicionada a opção de alterar o Cursor do Jogo nas opções do Launcher</entry>
+    <entry>Adicionada a opção de alterar a Interface do Jogo ( Season 6 ou Legend )</entry>
+    <entry>Corrigido um bug onde impedia a atualização de alguns arquivos em certas pastas</entry>
   </entries>
 </changelog>
