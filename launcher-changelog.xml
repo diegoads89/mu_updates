@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.6.4</version>
+  <version>1.6.5</version>
   <entries>
-    <entry>Deteccao do dmoprotect.exe/dmoprotect32.exe (anti-cheat) tambem, alem do jogo e do chat de voz</entry>
-    <entry>Popup de permissao agora lista exatamente quais processos estao abertos</entry>
+    <entry>Apos confirmar fechar o jogo/anti-cheat, reconfirma varias vezes antes de aplicar (evita erro de arquivo em uso)</entry>
+    <entry>Se nao conseguir fechar, avisa exatamente o que ainda esta rodando</entry>
   </entries>
 </changelog>
