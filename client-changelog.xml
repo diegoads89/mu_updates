@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.6.8</version>
+  <version>1.6.9</version>
   <entries>
     <entry>Corrigido Vários Crashs Reportados</entry>
-    <entry>Corrigido SideBar, agora não acusa mais no DMO</entry>
   </entries>
 </changelog>
