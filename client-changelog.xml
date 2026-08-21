@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.7.3</version>
+  <version>1.7.4</version>
   <entries>
     <entry>Corrigido Vários Crashs Reportados</entry>
     <entry>Corrigido erros no DMO</entry>
+    <entry>Adicionada opção de mostrar classe no SideBar</entry>
   </entries>
 </changelog>
