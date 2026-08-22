@@ -1,0 +1,117 @@
+31@11@211@Pet Panda@170@4@EXP 10% increase         #Collets Zen around         #Increase defensive skill +50.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2110|@6736@2@3@2110|2111|2112|@0@508@669
+31@12@209@Seal of Ascension@170@4@* Increase experience gained by * Seal of Divinity cannot be used at the same time.      #* Characters greater than level 400 must use "Master Seal of Ascension" or "Master Seal of Wealth" at the same time or this item gives no bonuses.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2090|@6699@2@3@2090|2091|2092|@0@508@669
+31@13@210@Master Seal of Ascension@170@6@*Increase experience gained by 15%.          #          #*Master Level only.          #          #*You can use Master Seal of Wealth at the same time.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2100|@6749@2@3@2100|2101|2102|@0@508@669
+32@1@101@Talisman of Wings of Satan@170@5@Increases your chance of creating Wings of Satan.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1010|@6739@2@1@1010|@0@508@669
+32@2@104@Talisman of Wings of Heaven@170@5@Increases your chance of creating Wings of Heaven@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1040|@6740@2@1@1040|@0@508@669
+32@3@105@Talisman of Wings of Elf@170@5@Increases your chance of creating Wings of Elf@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1050|@6741@2@1@1050|@0@508@669
+32@4@106@Talisman of Wing of Curse@170@5@Increases your chance of creating Wings of Curse@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1060|@6742@2@1@1060|@0@508@669
+32@5@114@Talisman of Cape of the Lord@170@5@Increases your chance of creating Cape of the Lord@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1140|@6743@2@1@1140|@0@508@669
+32@6@220@Talisman of Warrios Cloak@170@5@Increases your chance of creating Warrios Cloack@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2200|@6756@2@1@2200|@0@508@669
+32@7@121@Talisman of Wings of Dragon@170@10@Increases your chance of creating Wings of Dragon@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1210|@6744@2@1@1210|@0@508@669
+32@8@139@Talisman of Wings of Soul@170@10@Increases your chance of creating Wings of Soul@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1390|@6745@2@1@1390|@0@508@669
+32@9@145@Talisman of Wings of Spirits@170@10@Increases your chance of creating Wings of Spirit@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1450|@6746@2@1@1450|@0@508@669
+32@10@146@Talisman of Wing of Despair@170@10@Increases your chance of creating Wings of Despair@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1460|@6747@2@1@1460|@0@508@669
+32@11@149@Talisman of Wings of Darkness@170@10@Increases your chance of creating Wings of Darkness@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1490|@6748@2@1@1490|@0@508@669
+32@12@151@Small Cape of Lord@170@7@Defense 20   #Increase Damage 20%    #Absorb 20% damage@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1510|@6274@2@3@1510|1511|1512|@0@508@669
+32@13@152@Small Wing of Curse@170@7@Defense 10  #Increase Damage 12%   #Absorb 12% damage@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1520|@6275@2@3@1520|1521|1522|@0@508@669
+32@14@154@Small Wings of Elf@170@7@Defense 10   #Increase Damage 12%    #Absorb 12% damage@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1540|@6276@2@3@1540|1541|1542|@0@508@669
+32@15@155@Small Wings of Heaven@170@7@Defense 10   #Increase Damage 12%    #Absorb 12% damage@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1550|@6277@2@3@1550|1551|1552|@0@508@669
+32@16@170@Small Wings of Satan@170@7@Defense 20   #Increase Damage 12%    #Absorb 12% damage@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1700|@6278@2@3@1700|1701|1702|@0@508@669
+32@17@163@Little Warrior's Cloak@170@7@Defense 15      #Increase Damage 20%       #Absorb 20% damage@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1630|@6279@2@3@1630|1631|1632|@0@508@669
+33@1@199@Box of Kundun +1 (10un)@170@15@10 Box of Kundun +1@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1990|@7302@2@1@1990|@0@508@669
+33@2@200@Box of Kundun +2 (10un)@170@15@10 Box of Kundun +2@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2000|@7303@2@1@2000|@0@508@669
+33@3@201@Box of Kundun +3 (10un)@170@20@10 Box of Kundun +3@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2010|@7304@2@1@2010|@0@508@669
+33@4@167@Chaos Card Gold@170@3@Use to obtain Items like Box of Kundun +4, please verify before obtain@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1670|@7260@2@1@1670|@0@508@669
+33@5@207@Max AG Boost Aura@170@3@*Increase AG gained       #   @@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2070|@6760@2@3@2070|2071|2072|@0@508@669
+33@6@205@Talisman of Luck@170@2@Increases the chance of a combination in the chaos machine by 1%, remembering that you can use a maximum of 15 in the same combination@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2050|@7221@2@2@2050|2051|@0@508@669
+33@8@204@Magic Backpack@170@2@Inventory Expansion   #Expans?o do Invent?rio@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2040|@7330@2@1@2040|@0@508@669
+33@9@203@Wizards Ring@170@1@ATK\WIZ DMG +10%        #ATK Speed +10@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2030|@6676@2@3@2030|2031|2032|@0@508@669
+33@11@202@Pendant of Lighting@170@5@Permanent Pendant +Mana@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@2020|@6668@2@1@2020|@0@508@669
+34@1@130@Scroll of Defense@170@2@Increase Defense by 60.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1300|@7241@2@3@1300|1301|1302|@0@508@669
+34@3@107@Scroll of Wrath@170@2@Attack power +30@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1070|@7242@2@3@1070|1071|1072|@0@508@669
+34@4@153@Scroll of Wizardry@170@2@Increase Wizardry by 30.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1530|@7243@2@3@1530|1531|1532|@0@508@669
+34@5@133@Scroll of Health@170@2@Increase HP by 200.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1330|@7244@2@3@1330|1331|1332|@0@508@669
+34@6@134@Scroll of Mana@170@2@Increase MP by 300.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1340|@7245@2@3@1340|1341|1342|@0@508@669
+35@1@117@Demon@170@3@Increase Attack Power and Wizardry by 40%.        #Increase Attack Sppeed by 10.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1170|@6720@2@3@1170|1171|1172|@0@508@669
+35@2@118@Spirit of Guardian@170@2@Absorvs monsters damage to your character by 30%.      #Increase Maximum Life by 50.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1180|@6721@2@3@1180|1181|1182|@0@508@669
+35@3@196@Pet Panda@170@4@EXP 10% increase          #Collets Zen around          #Increase defensive skill +50.@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1960|@6736@2@3@1960|1961|1962|@0@508@669
+37@1@125@Devil Square Ticket@170@2@Use to event Devil Square ( 10 U ).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1250|@6702@2@1@1250|@0@508@669
+37@2@126@Blood Castle Ticket@170@2@Use to event Blood Castle ( 10 U ).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1260|@6703@2@1@1260|@0@508@669
+37@3@127@Kalima Ticket@170@2@Ticket Kalima ( 10 U ).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1270|@6704@2@1@1270|@0@508@669
+37@4@128@Illusion Temple Ticket@170@2@Ticket to event Illusion Temple ( 10 U ).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1280|@6717@2@1@1280|@0@508@669
+37@5@143@Access Ticket to Chaos Castle@170@2@Use to event Chaos Castle ( 10 U ).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1430|@6777@2@1@1430|@0@508@669
+37@6@144@Double Goer@170@1@Use to event Double Goer ( 1 U ).@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1440|@6781@2@1@1440|@0@508@669
+37@7@142@Moonstone Pendant@170@1@Use to enter on Kanturu Event@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1420|@6694@2@1@1420|@0@508@669
+37@8@147@Mirror of Dimensions@170@1@Use to enter on Double Goer Event ( Mirror )@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1470|@7279@2@1@1470|@0@508@669
+37@9@148@Gaions Order@170@1@Use to enter on Gaion Event ( Imperial Guardian )@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1480|@7270@2@1@1480|@0@508@669
+37@10@113@Complete Secromicon@170@10@Use to enter one time on Sunday Gaion Event ( Imperial Guardian )  #Uma entrada para o Gaion de Domingo@@182@185@0@0@177@1@W Coin (C)@W Coin (C)@181@200@0@1130|@7277@2@1@1130|@0@508@669
+41@1@137@Magic Backpack@170@100@Inventory Expansion! @@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1370|@7330@3@1@1370|@0@509@669
+41@3@222@Box of Kundun +1@170@50@1un Box of Kundun +1@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2220|@7179@3@1@2220|@0@509@669
+41@4@198@Box of Kundun +2@170@50@1un Box of Kundun +2@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1980|@7179@3@1@1980|@0@509@669
+41@5@223@Box of Kundun +3@170@50@1un Box of Kundun +3@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2230|@7179@3@1@2230|@0@509@669
+41@6@162@Chaos Card Gold@170@150@Use to obtain Items like Box of Kundun +4, please verify before obtain@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1620|@7260@3@1@1620|@0@509@669
+42@1@166@Max AG Boost Aura@170@50@*Increase AG gained         #   @@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1660|@6760@3@2@1660|1661|@0@509@669
+42@4@168@Seal of Ascension@170@50@* Increase experience gained by * Seal of Divinity cannot be used at the same time.     #* Characters greater than level 400 must use "Master Seal of Ascension" or "Master Seal of Wealth" at the same time or this item gives no bonuses.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1680|@6699@3@2@1680|1681|@0@509@669
+42@5@169@Master Seal of Ascension@170@70@*Increase experience gained by 15%.       #       #*Master Level only.       #       #*You can use Master Seal of Wealth at the same time.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1690|@6749@3@2@1690|1691|@0@509@669
+43@1@140@Demon@170@80@Increase Attack Power and Wizardry by 40%.  #Increase Attack Sppeed by 10.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1400|@6720@3@2@1400|1401|@0@509@669
+43@2@141@Spirit of Guardian@170@80@Absorvs monster damage to your character by 30%   #Increase Maximum Life by 50.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1410|@6721@3@2@1410|1411|@0@509@669
+43@3@197@Pet Panda@170@80@EXP 10% increase            #Collets Zen around            #Increase defensive skill +50.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1970|@6736@3@2@1970|1971|@0@509@669
+44@1@156@Small Cape of Lord@170@30@Defense 20    #Increase Damage 20%     #Absorb 20% damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1560|@6274@3@3@1560|1561|1562|@0@509@669
+44@2@157@Small Wing of Curse@170@30@Defense 10   #Increase Damage 12%    #Absorb 12% damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1570|@6275@3@3@1570|1571|1572|@0@509@669
+44@3@158@Small Wings of Elf@170@30@Defense 10    #Increase Damage 12%     #Absorb 12% damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1580|@6276@3@3@1580|1581|1582|@0@509@669
+44@4@159@Small Wings of Heaven@170@30@Defense 10    #Increase Damage 12%     #Absorb 12% damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1590|@6277@3@3@1590|1591|1592|@0@509@669
+44@5@160@Small Wings of Satan@170@30@Defense 20    #Increase Damage 12%     #Absorb 12% damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1600|@6278@3@3@1600|1601|1602|@0@509@669
+44@6@161@Little Warrior's Cloak@170@30@Defense 15    #Increase Damage 20%     #Absorb 20% damage@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1610|@6279@3@3@1610|1611|1612|@0@509@669
+44@7@215@Talisman of Wings of Satan@170@50@Increases your chance of creating Wings of Satan.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2150|@6739@3@1@2150|@0@509@669
+44@8@216@Talisman of Wings of Heaven@170@50@Increases your chance of creating Wings of Heaven@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2160|@6740@3@1@2160|@0@509@669
+44@9@217@Talisman of Wings of Elf@170@50@Increases your chance of creating Wings of Elf@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2170|@6741@3@1@2170|@0@509@669
+44@10@218@Talisman of Wing of Curse@170@50@Increases your chance of creating Wings of Curse@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2180|@6742@3@1@2180|@0@509@669
+44@11@219@Talisman of Cape of the Lord@170@50@Increases your chance of creating Cape of the Lord@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2190|@6743@3@1@2190|@0@509@669
+44@12@221@Talisman of Warriors Cloak@170@50@Increases your chance of creating Warriors Cloak@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@2210|@6756@3@1@2210|@0@509@669
+46@1@194@Scroll of Wizardry Enhance@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1940|@7708@3@1@1940|@0@509@669
+46@2@150@Crystal of Destruction@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1500|@6188@3@1@1500|@0@509@669
+46@3@111@Crystal of Multi-Shot@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1110|@6189@3@1@1110|@0@509@669
+46@4@171@Crystal of Recovery@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1710|@6190@3@1@1710|@0@509@669
+46@5@115@Scroll of Gigantic Storm@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1150|@7709@3@1@1150|@0@509@669
+46@6@122@Crystal of Flame Strike@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1220|@6191@3@1@1220|@0@509@669
+46@7@173@Scroll of Chaotic Diseier@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1730|@6192@3@1@1730|@0@509@669
+46@8@174@Lightning Shock Parchment@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1740|@7701@3@1@1740|@0@509@669
+46@9@180@Dark Side Parchment@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1800|@7711@3@1@1800|@0@509@669
+46@10@116@Chain Drive Parchment@170@100@@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1160|@7710@3@1@1160|@0@509@669
+47@1@102@Scroll of Defense@170@50@Increase Defense by 60.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1020|@7241@3@2@1020|1021|@0@509@669
+47@2@138@Scroll of Wrath@170@50@Attack power +30@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1380|@7242@3@2@1380|1381|@0@509@669
+47@3@185@Scroll of Wizardry@170@50@Increase Wizardry by 30.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1850|@7243@3@2@1850|1851|@0@509@669
+47@4@188@Scroll of Health@170@50@Increase HP by 200.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1880|@7244@3@2@1880|1881|@0@509@669
+47@5@195@Scroll of Mana@170@50@Increase MP by 300.@@182@185@0@0@177@1@W Coin (P)@W Coin (P)@181@200@0@1950|@7245@3@2@1950|1951|@0@509@669
+61@1@119@Scroll of Cometfall@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1190|@7692@5@1@1190|@1@0@669
+61@2@120@Scroll of Aqua Beam@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1200|@7691@5@1@1200|@1@0@669
+61@3@123@Scroll of Inferno@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1230|@7693@5@1@1230|@1@0@669
+61@4@124@Scroll of Teleport Ally@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1240|@7694@5@1@1240|@1@0@669
+61@5@131@Scroll of Soul Barrier@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1310|@7695@5@1@1310|@1@0@669
+61@6@132@Scroll of Decay@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1320|@7696@5@1@1320|@1@0@669
+61@7@135@Scroll of Ice Storm@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1350|@7697@5@1@1350|@1@0@669
+61@8@136@Scroll of Nova@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1360|@7698@5@1@1360|@1@0@669
+62@1@108@Orb of Death Stab@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1080|@6163@5@1@1080|@1@0@669
+62@2@109@Orb of Rageful Blow@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1090|@6156@5@1@1090|@1@0@669
+62@3@110@Orb of Greater Fortitude@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1100|@6158@5@1@1100|@1@0@669
+63@1@103@Orb of Penetration@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1030|@6161@5@1@1030|@1@0@669
+63@2@112@Orb of Ice Arrow@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1120|@6162@5@1@1120|@1@0@669
+64@1@164@Silver Key@170@500@Use to Open Sealed Silver Box@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1640|@7280@5@1@1640|@1@0@669
+64@2@165@Gold Key@170@700@Use to Open Sealed Golden Box@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1650|@7281@5@1@1650|@1@0@669
+65@1@172@Orb of Fire Slash@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1720|@6160@5@1@1720|@1@0@669
+66@1@175@Scroll of FireBurst@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1750|@6165@5@1@1750|@1@0@669
+66@2@176@Scroll of Summon@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1760|@6166@5@1@1760|@1@0@669
+66@3@177@Scroll of Critical Damage@170@100@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1770|@6167@5@1@1770|@1@0@669
+66@4@178@Scroll of Electric Spark@170@100@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1780|@6168@5@1@1780|@1@0@669
+66@5@179@Scroll of Fire Scream@170@100@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1790|@6179@5@1@1790|@1@0@669
+67@1@181@Chain Lightning Parchment@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1810|@7699@5@1@1810|@1@0@669
+67@2@182@Damage Reflection Parchment@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1820|@7702@5@1@1820|@1@0@669
+67@3@183@Berserker Parchment@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1830|@7703@5@1@1830|@1@0@669
+67@4@184@Sleep Parchment@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1840|@7704@5@1@1840|@1@0@669
+67@6@186@Weakness Parchment@170@100@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1860|@7706@5@1@1860|@1@0@669
+67@7@187@Innovation Parchment@170@100@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1870|@7707@5@1@1870|@1@0@669
+68@2@189@Dragon Roar Parchment@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1890|@7712@5@1@1890|@1@0@669
+68@3@190@Increase Health Parchment@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1900|@7715@5@1@1900|@1@0@669
+68@4@191@Increase Block Parchment@170@50@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1910|@7716@5@1@1910|@1@0@669
+68@5@192@Ignore Defense Parchment@170@100@@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1920|@7714@5@1@1920|@1@0@669
+69@1@193@Demon@170@1000@Increase Attack Power and Wizardry by 40%.    #Increase Attack Sppeed by 10.@@182@185@0@0@177@1@Goblin Points@Goblin Points@181@200@0@1930|@6720@5@2@1930|1931|@1@0@669
