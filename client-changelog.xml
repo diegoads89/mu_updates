@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.7.8</version>
+  <version>1.7.9</version>
   <entries>
     <entry>Corrigido Vários Crashs Reportados</entry>
     <entry>Corrigido erros no DMO</entry>
     <entry>Adicionada opção de mostrar classe no SideBar</entry>
+    <entry>Adicionado Fix para o Smart Screen</entry>
     <entry>Fix Lahap ( não estava fazendo unpack das joias )</entry>
   </entries>
 </changelog>
