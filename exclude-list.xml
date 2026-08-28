@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <exclude-list>
+  <entry>Helper.exe</entry>
+  <entry>muvoiceclient.exe</entry>
   <entry>SideBar.exe</entry>
   <entry>Data/Resolutions.xml</entry>
   <entry>Data/Engine/bg_login.mpg</entry>
