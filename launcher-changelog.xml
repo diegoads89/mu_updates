@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.7.4</version>
+  <version>1.7.5</version>
   <entries>
     <entry>Adicionada a opção de desativar a SideBar do Launcher, para evitar falsos acionamentos.</entry>
   </entries>
