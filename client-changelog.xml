@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.8.3</version>
+  <version>1.8.4</version>
   <entries>
     <entry>Corrigido Vários Crashs Reportados</entry>
     <entry>Corrigido erros no DMO</entry>
