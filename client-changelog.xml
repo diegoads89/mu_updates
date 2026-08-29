@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>1.9.3</version>
+  <version>1.9.4</version>
   <entries>
-    <entry>Corrigido Interface Legend</entry>
+    <entry>Adicionado tradução para a linguagem Português</entry>
   </entries>
 </changelog>
