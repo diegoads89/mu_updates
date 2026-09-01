@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>2.0.1</version>
+  <version>2.0.2</version>
   <entries>
     <entry>Adicionado tradução para a linguagem Português</entry>
     <entry>Corrigido o uso da sintaxe @&gt; para anuncio de guild</entry>
