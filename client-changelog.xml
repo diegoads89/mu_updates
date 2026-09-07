@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>2.0.7</version>
-  <entries />
+  <version>2.0.8</version>
+  <entries>
+    <entry>Corrigido cor dos itens dropados</entry>
+  </entries>
 </changelog>
