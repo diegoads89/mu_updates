@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>2.0.6</version>
-  <entries>
-    <entry>Adicionado tradução para a linguagem Português</entry>
-    <entry>Corrigido o uso da sintaxe @&gt; para anuncio de guild</entry>
-  </entries>
+  <version>2.0.7</version>
+  <entries />
 </changelog>
