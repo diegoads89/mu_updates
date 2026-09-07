@@ -1,0 +1,126 @@
+{
+  "audio" : 
+  {
+    "music_enabled" : true,
+    "music_volume" : 0,
+    "sound_enabled" : true,
+    "sound_volume" : 0
+  },
+  "display" : 
+  {
+    "font_size" : 13,
+    "height" : 1080,
+    "resolution_index" : 14,
+    "width" : 1920,
+    "windowed" : true
+  },
+  "gameplay" : 
+  {
+    "accept_requests" : true,
+    "auto_attack" : true,
+    "automatic_pvp" : false,
+    "bloody_screen" : true,
+    "hide_pk_kill_messages" : false,
+    "notify_announcement" : true,
+    "notify_connection" : true,
+    "notify_death" : true,
+    "notify_helper_stopped" : true,
+    "run_animation" : true,
+    "slide_help" : true,
+    "whisper_sound" : true
+  },
+  "graphics" : 
+  {
+    "camera_mouse_follow" : false,
+    "desktop_renderer" : 
+    {
+      "last_active_modern" : true,
+      "last_working_mode" : 0,
+      "mode" : 0,
+      "pending_mode" : 0,
+      "show_startup_dialog" : true,
+      "startup_pending" : false
+    },
+    "directional_shadow_bias" : 0.001500000013038516,
+    "directional_shadow_intensity" : 0.55000001192092896,
+    "directional_shadow_resolution" : 2048,
+    "dynamic_effects" : true,
+    "frame_rate_limit" : 120,
+    "hp_bar_monster" : true,
+    "hp_bar_player" : true,
+    "hud_visible" : true,
+    "item_glow_effects" : true,
+    "new_font_style" : true,
+    "object_sun_light_strength" : 0.44999998807907104,
+    "pet_shadows" : true,
+    "player_shadows" : true,
+    "post_process" : 
+    {
+      "anti_aliasing_enabled" : false,
+      "bloom_enabled" : true,
+      "bloom_intensity" : 0.44999998807907104,
+      "bloom_radius" : 1.5,
+      "bloom_threshold" : 0.87999999523162842,
+      "color_grade_enabled" : true,
+      "contact_shadow_intensity" : 1.0,
+      "contrast" : 1.0,
+      "debug_mode" : 0,
+      "distant_pass_lod_scale" : 1.0,
+      "enabled" : true,
+      "exposure" : 1.0,
+      "gamma" : 2.2000000476837158,
+      "gamma_correct_enabled" : true,
+      "highlight_compress" : 0.0,
+      "horizon_blur_enabled" : true,
+      "horizon_blur_end" : 5000.0,
+      "horizon_blur_intensity" : 1.0,
+      "horizon_blur_radius" : 5.0,
+      "horizon_blur_start" : 3600.0,
+      "quality_level" : 0,
+      "saturation" : 1.0,
+      "scene_linearize_enabled" : false,
+      "shadow_lift" : 0.0,
+      "sharpen_enabled" : true,
+      "sharpen_intensity" : 0.34999999403953552,
+      "ssao_bias" : 0.02500000037252903,
+      "ssao_enabled" : false,
+      "ssao_intensity" : 1.0,
+      "ssao_radius" : 2.0,
+      "temperature" : 0.0,
+      "tone_mapping_enabled" : true,
+      "tone_mapping_intensity" : 0.34999999403953552,
+      "vignette_intensity" : 1.0,
+      "zoom_view_floor" : 1.7000000476837158
+    },
+    "remove_hp_bar" : false,
+    "render_effects" : true,
+    "render_equipment" : true,
+    "render_level" : 4,
+    "render_objects" : true,
+    "render_terrain" : true,
+    "skill_effects" : true,
+    "static_effects" : true,
+    "terrain_visibility" : -2,
+    "water_reflection" : false,
+    "water_reflection_distort" : 0.029999999329447746,
+    "water_reflection_every_frames" : 2,
+    "water_reflection_glow" : 0.34999999403953552,
+    "water_reflection_strength" : 0.80000001192092896,
+    "water_reflection_stretch" : 1.3500000238418579,
+    "weather_enabled" : true,
+    "world_object_shadows" : true,
+    "world_render_resolution" : 
+    {
+      "quality_preset" : "high_quality"
+    },
+    "world_shadow_mode" : 2
+  },
+  "ui" : 
+  {
+    "favorite_maps" : {},
+    "monster_damage_ranking_minimized" : false,
+    "monster_damage_ranking_x" : 865,
+    "monster_damage_ranking_y" : 139
+  },
+  "version" : 8
+}

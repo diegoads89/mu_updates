@@ -1,0 +1,29 @@
+{
+	"slots" : 
+	[
+		{
+			"cha" : 0,
+			"dex" : 5018,
+			"ene" : 45030,
+			"occupied" : true,
+			"str" : 525,
+			"vit" : 2015
+		},
+		{
+			"cha" : 0,
+			"dex" : 0,
+			"ene" : 0,
+			"occupied" : false,
+			"str" : 0,
+			"vit" : 0
+		},
+		{
+			"cha" : 0,
+			"dex" : 518,
+			"ene" : 1030,
+			"occupied" : true,
+			"str" : 5518,
+			"vit" : 5015
+		}
+	]
+}

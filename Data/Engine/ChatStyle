@@ -1,0 +1,18 @@
+;==================================================
+; Estilo novo do chat (fonte propria, chips arredondados, selos
+; SYSTEM / GM / POST).
+;
+; Lido direto pelo Main.exe ao abrir o cliente -- nao passa pelo Encoder.
+; Editar aqui e reabrir o jogo ja basta. Sem este arquivo, o chat volta ao
+; visual antigo.
+;
+;   NewFontStyle = 0/1   liga o visual novo
+;   NewFontFile  = .ttf  fonte do chat (a normalfont.ttf e a Arial padrao)
+;   NewFontSize  = N     tamanho em pixels; 0 = automatico
+;   NewLinePitch = N     altura de cada linha; minimo 15, padrao 20
+;==================================================
+[ChatInfo]
+NewFontStyle = 1
+NewFontFile = Data\Engine\Fonts\NotoSansSC.ttf
+NewFontSize = 0
+NewLinePitch = 20
