@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <changelog>
-  <version>2.1.6</version>
+  <version>2.1.7</version>
   <entries>
     <entry>Corrigido cor dos itens dropados</entry>
+    <entry>Corrigido Textura do Set Thunder</entry>
+    <entry>Corrigido Sistema de Quests não exibindo corretamente os monstros e itens</entry>
   </entries>
 </changelog>
