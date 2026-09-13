@@ -1,19 +1,55 @@
 {
     "enable": true,
-	"background": {
-		"left": "Engine\\HUD\\loading\\kIJY18U_left.jpg",
-		"right": "Engine\\HUD\\loading\\kIJY18U_right.jpg"
-	},
-
-	"frame": {
-		"texture": "Engine\\HUD\\loading\\KMUA2_Loading.tga"
-	},
-
-	"bar": {
-		"texture": "Engine\\HUD\\loading\\kIJY18U_bar.jpg",	
-		"size": [938, 8],
-		"offset": [43, 46]
-	},
-
-	"resolution": [1024, 768]
+    "background": {
+        "left": "Engine\\HUD\\loading\\kIJY18U_left.jpg",
+        "right": "Engine\\HUD\\loading\\kIJY18U_right.jpg"
+    },
+    "backgrounds": [
+        {
+            "left": "Engine\\HUD\\loading\\kIJY18U_left.jpg",
+            "right": "Engine\\HUD\\loading\\kIJY18U_right.jpg"
+        },
+        {
+            "left": "Engine\\HUD\\loading\\19_left.jpg",
+            "right": "Engine\\HUD\\loading\\19_right.jpg"
+        },
+        {
+            "left": "Engine\\HUD\\loading\\18_left.jpg",
+            "right": "Engine\\HUD\\loading\\18_right.jpg"
+        }
+    ],
+    "frame": {
+        "texture": "Engine\\HUD\\loading\\KMUA2_Loading.tga"
+    },
+    "bar": {
+        "texture": "Engine\\HUD\\loading\\kIJY18U_bar.jpg",
+        "size": [
+            938,
+            8
+        ],
+        "offset": [
+            43,
+            46
+        ]
+    },
+    "spark": {
+        "texture": "Engine\\HUD\\loading\\BarFrame.tga",
+        "grid": [
+            4,
+            4
+        ],
+        "cell": [
+            128,
+            128
+        ],
+        "anchor": [
+            86,
+            72
+        ],
+        "scale": 1.0
+    },
+    "resolution": [
+        1024,
+        768
+    ]
 }
