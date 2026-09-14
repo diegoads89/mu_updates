@@ -1,0 +1,290 @@
+{
+  "version": "2.2.6",
+  "files": [
+    {
+      "path": "Main.exe",
+      "size": 17233920,
+      "hash": "5d5f46fd11af7bad8ee8323f23ffe1b0ae1073d4ff8c16428ed6abf89172508a"
+    },
+    {
+      "path": "Data/av-code45.pak",
+      "size": 132125,
+      "hash": "594859df0be12d66047add69e59a9bad75edc29a03a0c90e912c9602539990d0"
+    },
+    {
+      "path": "Data/Gate.bmd",
+      "size": 16384,
+      "hash": "664fcfd1b890a834460c22577026d40fbe107eb5e35e86945936833ae510d0cf"
+    },
+    {
+      "path": "Data/Macro.txt",
+      "size": 12,
+      "hash": "fb8a86dd5c7dcf332f7832bd061bdad4f7546dfcd370aa9c3e080d5138c0b738"
+    },
+    {
+      "path": "Data/Effect/footprint.OZT",
+      "size": 32790,
+      "hash": "241e78c3076033057579aae771b3b323638d78a5840f6198d1599b0467bb4e68"
+    },
+    {
+      "path": "Data/Engine/ChatStyle",
+      "size": 716,
+      "hash": "c42b0799a9a7bc663de68980a8cd488d8335b394d46519cb7241dc7dee897736"
+    },
+    {
+      "path": "Data/Engine/loading.json",
+      "size": 1286,
+      "hash": "e333d3d3bdbe54e31258ebdb355bd02e725d8a7ee1c1690fe8a00086219219b9"
+    },
+    {
+      "path": "Data/Local/client_options.json",
+      "size": 3793,
+      "hash": "c8674b675309d2c9fc29563f548d06e5537de7651feed375c72e8b6e49c2fa71"
+    },
+    {
+      "path": "Data/Local/Connect.msil",
+      "size": 996,
+      "hash": "8d32862fb2c1e2a65930a54bba37baf686982cb9e6b9b43955fe70740c7e9d45"
+    },
+    {
+      "path": "Data/Update/InterfaceLegend.zip",
+      "size": 74859648,
+      "hash": "98be2506a1740c18965ca45c87d4c005f1383f013ec7f64abf5f7be4b5936ede"
+    },
+    {
+      "path": "Data/Update/InterfaceOriginal.zip",
+      "size": 52841666,
+      "hash": "203cd1abfd5eda29a86ac5681557ff7e996572aeddd0162973e7d6477ca7b713"
+    },
+    {
+      "path": "Data/World2/tilegrass01.ozj",
+      "size": 34397,
+      "hash": "4d5bd4349716d180e164aa7b55a8ffab44f33a390a36fe802fee26f598cce172"
+    },
+    {
+      "path": "Data/World2/tileground03.ozj",
+      "size": 36313,
+      "hash": "912dc64aa67edd09ceec5c3031b1c7cc7d161993319c7533051d9eb9d574008d"
+    },
+    {
+      "path": "Data/Cache/MoveSync/Gate.bmd",
+      "size": 16384,
+      "hash": "3fbc067f3757abf9701855446f4e2cbc36264da0240a6a9db23e126c3243736a"
+    },
+    {
+      "path": "Data/Cache/MoveSync/Movereq.bmd",
+      "size": 4052,
+      "hash": "d22bf92e5bb17feca77dde4f05f2a9049b4d4ec61d17687ee3da5c1f8bd7f9c7"
+    },
+    {
+      "path": "Data/Cache/MoveSync/MoveSync.dat",
+      "size": 28,
+      "hash": "3c8e06b4100b0d98dd2c5c2d11b27b025d46f945f16e2ac633d51c780f8c73d7"
+    },
+    {
+      "path": "Data/Engine/Sky/SkyConfig.json",
+      "size": 12065,
+      "hash": "95606eb11403cc790b2a5fd4f3ecf73fdafe172483efeff1632a08fecaa3e10f"
+    },
+    {
+      "path": "Data/InGameShopBanner/583.2010.005/20101229SPEZDV8MJ7QMLGDE.OZJ",
+      "size": 15499,
+      "hash": "4b1b5effe75b8f5a43190203ec0e35c1056e59730d054f45f55648d090956e83"
+    },
+    {
+      "path": "Data/Local/Eng/BuffEffect.bmd",
+      "size": 24972,
+      "hash": "7d324b707fb29d677e487e79112a1754b9970c1a49ea542147516375d0e6db20"
+    },
+    {
+      "path": "Data/Local/Eng/client-setting.lang",
+      "size": 8451,
+      "hash": "9fecf2a04c3edf71800f1323f0763a23d347820e41e6f22807fb32fbfcb07df4"
+    },
+    {
+      "path": "Data/Local/Eng/Item.bmd",
+      "size": 1179652,
+      "hash": "7fc1850a02c2a23dd69fe9e9c733afe32377243af319d5f4c0183a19fca0c4d4"
+    },
+    {
+      "path": "Data/Local/Eng/Movereq.bmd",
+      "size": 4052,
+      "hash": "d22bf92e5bb17feca77dde4f05f2a9049b4d4ec61d17687ee3da5c1f8bd7f9c7"
+    },
+    {
+      "path": "Data/Local/Eng/movereq.txt",
+      "size": 2032,
+      "hash": "829729e0b8da3dea003c1cb15764256ffb50f7520b79e675ad8185020cea5ec2"
+    },
+    {
+      "path": "Data/Local/Eng/Text.bmd",
+      "size": 143693,
+      "hash": "6e71ad95f51630afdde7a2e617f683d9358847fb3d0a08ab538d1f204a4e1166"
+    },
+    {
+      "path": "Data/Local/Eng/Text.bmd.bak",
+      "size": 143515,
+      "hash": "82383e4aa4a216c11581329ea109ebb159ea17f392510b09bb6ff5a6dcb31055"
+    },
+    {
+      "path": "Data/Local/Eng/Text.bmd.bak-antes-sync",
+      "size": 143194,
+      "hash": "5d0ceeaebb06baf503747c11c5d83fa4dc531caf9bf2ce943c6d474293e960d3"
+    },
+    {
+      "path": "Data/Local/Por/BuffEffect.bmd",
+      "size": 24972,
+      "hash": "7d324b707fb29d677e487e79112a1754b9970c1a49ea542147516375d0e6db20"
+    },
+    {
+      "path": "Data/Local/Por/client-setting.lang",
+      "size": 8860,
+      "hash": "2dc34cbedeef7656bb45ff496ed0ea73f627759c1d98599378c1cd449454d018"
+    },
+    {
+      "path": "Data/Local/Por/Item.bmd",
+      "size": 1179652,
+      "hash": "7fc1850a02c2a23dd69fe9e9c733afe32377243af319d5f4c0183a19fca0c4d4"
+    },
+    {
+      "path": "Data/Local/Por/Movereq.bmd",
+      "size": 4052,
+      "hash": "d22bf92e5bb17feca77dde4f05f2a9049b4d4ec61d17687ee3da5c1f8bd7f9c7"
+    },
+    {
+      "path": "Data/Local/Por/Text.bmd",
+      "size": 150383,
+      "hash": "0f82e1f0a44f43cba04f663c9101ede526e010bc30f17f3375f4dc01aeb4d904"
+    },
+    {
+      "path": "Data/Local/Por/Text.bmd.bak",
+      "size": 150177,
+      "hash": "d41b12d8b1ba9b4c0b6153e3f271ef266ebaa13f952bd1dc1151e0fcdb5acacf"
+    },
+    {
+      "path": "Data/Local/Por/Text.bmd.bak-antes-sync",
+      "size": 149852,
+      "hash": "bd3eff05497561edaa0fe91b41f43631e360099fc9291703d08f956d45e6b7c7"
+    },
+    {
+      "path": "Data/Local/Spn/BuffEffect.bmd",
+      "size": 24972,
+      "hash": "7d324b707fb29d677e487e79112a1754b9970c1a49ea542147516375d0e6db20"
+    },
+    {
+      "path": "Data/Local/Spn/client-setting.lang",
+      "size": 8839,
+      "hash": "a4aa88099701e7632dd8931fa98d7c7824b5462f4b1936ad2db918201e34862c"
+    },
+    {
+      "path": "Data/Local/Spn/Item.bmd",
+      "size": 1179652,
+      "hash": "7fc1850a02c2a23dd69fe9e9c733afe32377243af319d5f4c0183a19fca0c4d4"
+    },
+    {
+      "path": "Data/Local/Spn/Movereq.bmd",
+      "size": 4052,
+      "hash": "d22bf92e5bb17feca77dde4f05f2a9049b4d4ec61d17687ee3da5c1f8bd7f9c7"
+    },
+    {
+      "path": "Data/Local/Spn/Text.bmd",
+      "size": 143735,
+      "hash": "7eb4f0bb5b43cfd2aad2184369e88da262967fe523ad667387bff74bfd7b69b1"
+    },
+    {
+      "path": "Data/Local/Spn/Text.bmd.bak",
+      "size": 143535,
+      "hash": "cf55b9a81e7de9c04f9d802a3ff41c288e2d1b095275ba3d7cd2e4b7aba52460"
+    },
+    {
+      "path": "Data/Local/Spn/Text.bmd.bak-antes-sync",
+      "size": 143188,
+      "hash": "77300c1105ddf4604933573f960204e34d71c0b4cef3e2d5e50e71169b8d4bc0"
+    },
+    {
+      "path": "Data/Update/Legend/Main.exe",
+      "size": 17233920,
+      "hash": "5d5f46fd11af7bad8ee8323f23ffe1b0ae1073d4ff8c16428ed6abf89172508a"
+    },
+    {
+      "path": "Data/Update/Original/Main.exe",
+      "size": 17233920,
+      "hash": "5d5f46fd11af7bad8ee8323f23ffe1b0ae1073d4ff8c16428ed6abf89172508a"
+    },
+    {
+      "path": "Data/Engine/HUD/loading/18_left.ozj",
+      "size": 401210,
+      "hash": "1fc34876d2d1019095621fa8b81dd05744015b9729f4ff1ff95da2612261d35d"
+    },
+    {
+      "path": "Data/Engine/HUD/loading/18_right.ozj",
+      "size": 382566,
+      "hash": "b31853fa290ee1ac70eca2bbb13a2adfde9dae68741715bac216768f1f220098"
+    },
+    {
+      "path": "Data/Engine/HUD/loading/19_left.ozj",
+      "size": 469099,
+      "hash": "c93a3534cf165483abc4bb2856f3a624ae600199a23a4e9bd8bec9da0ad6e7e1"
+    },
+    {
+      "path": "Data/Engine/HUD/loading/19_right.ozj",
+      "size": 458249,
+      "hash": "6e79943cf78d808f94d3b2100508a15c19b2ec4e029110b7e031a134fb610d0c"
+    },
+    {
+      "path": "Data/Engine/HUD/loading/BarFrame.ozt",
+      "size": 1048598,
+      "hash": "bc435fea195cc7c980e0daefbdbf10cc0cdfb9f548c56457629b57839f5ffd6e"
+    },
+    {
+      "path": "Data/Update/Legend/Data/av-code45.pak",
+      "size": 132421,
+      "hash": "3686bf79ce7b60b780e330e0d4ae4d6d1372e9be7c252e319e1125e575636b38"
+    },
+    {
+      "path": "Data/Update/Original/Data/av-code45.pak",
+      "size": 132421,
+      "hash": "e74522ab3b64e956cdfd5920f82998bb45f613033be87efcb811cf1cd13604f4"
+    },
+    {
+      "path": "Data/Update/Legend/Data/Local/Connect.msil",
+      "size": 996,
+      "hash": "8260cdf9ebbf023eddd7087c03cef00af49eed9698c69271ce36d99d27916768"
+    },
+    {
+      "path": "Data/Update/Original/Data/Local/Connect.msil",
+      "size": 996,
+      "hash": "8260cdf9ebbf023eddd7087c03cef00af49eed9698c69271ce36d99d27916768"
+    },
+    {
+      "path": "Data/Update/Legend/Data/Local/Eng/client-setting.lang",
+      "size": 8093,
+      "hash": "6f12ed6548f3259af336f5f27c3742d1c6cd4e7276167646f464eeb0cf208141"
+    },
+    {
+      "path": "Data/Update/Legend/Data/Local/Por/client-setting.lang",
+      "size": 8485,
+      "hash": "8a8ec763d8460b6b8c2a5a6ba7757cae53ac0800241e1c0e08c2d7b28b67a174"
+    },
+    {
+      "path": "Data/Update/Legend/Data/Local/Spn/client-setting.lang",
+      "size": 8470,
+      "hash": "2547bd2d200063868206763c572c986c46e395371082651900ccea034ef82f20"
+    },
+    {
+      "path": "Data/Update/Original/Data/Local/Eng/client-setting.lang",
+      "size": 8093,
+      "hash": "6f12ed6548f3259af336f5f27c3742d1c6cd4e7276167646f464eeb0cf208141"
+    },
+    {
+      "path": "Data/Update/Original/Data/Local/Por/client-setting.lang",
+      "size": 8485,
+      "hash": "8a8ec763d8460b6b8c2a5a6ba7757cae53ac0800241e1c0e08c2d7b28b67a174"
+    },
+    {
+      "path": "Data/Update/Original/Data/Local/Spn/client-setting.lang",
+      "size": 8470,
+      "hash": "2547bd2d200063868206763c572c986c46e395371082651900ccea034ef82f20"
+    }
+  ]
+}
