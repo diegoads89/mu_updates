@@ -1,15 +1,15 @@
 {
-  "version": "2.2.7",
+  "version": "2.3.8",
   "files": [
     {
       "path": "Main.exe",
-      "size": 17233920,
-      "hash": "5d5f46fd11af7bad8ee8323f23ffe1b0ae1073d4ff8c16428ed6abf89172508a"
+      "size": 17649152,
+      "hash": "6b98c7ff56346565a35390f1313db1483c4dd7a696ae93044619793ad64e2090"
     },
     {
       "path": "Data/av-code45.pak",
-      "size": 132125,
-      "hash": "594859df0be12d66047add69e59a9bad75edc29a03a0c90e912c9602539990d0"
+      "size": 133109,
+      "hash": "3984e13c40714545de099537e81dc61aa2b50571f2409516b54671117960f755"
     },
     {
       "path": "Data/Gate.bmd",
@@ -37,6 +37,181 @@
       "hash": "e333d3d3bdbe54e31258ebdb355bd02e725d8a7ee1c1690fe8a00086219219b9"
     },
     {
+      "path": "Data/GuildLogo/arco.png",
+      "size": 299551,
+      "hash": "c84f5add79a2a774937fb9ebb732359d1dbaf33f2a537fb16519815ed7772ba1"
+    },
+    {
+      "path": "Data/GuildLogo/asas-demonio.png",
+      "size": 358750,
+      "hash": "4394d629958fe45e124b774798cb3849b90cc970eb40a95dba894380fe426499"
+    },
+    {
+      "path": "Data/GuildLogo/asas.png",
+      "size": 461998,
+      "hash": "fe8236f85b615c44da35e4e073754ce2aac66f650826beeab4659bf7a8002696"
+    },
+    {
+      "path": "Data/GuildLogo/bandeira.png",
+      "size": 265753,
+      "hash": "7583842d6cd8d6918d3356717397e046608a353ea446b3dc80b21f568a177cc6"
+    },
+    {
+      "path": "Data/GuildLogo/bulbasaur.png",
+      "size": 866085,
+      "hash": "715821a00e100799d48597cfed3e632efa4e59f58e8270b6760ec008afed98e0"
+    },
+    {
+      "path": "Data/GuildLogo/cajado.png",
+      "size": 838214,
+      "hash": "331e29c52eabd5b884ddd5ea0712def603808a59f7d341ecccbe17dca038b9ad"
+    },
+    {
+      "path": "Data/GuildLogo/castelo.png",
+      "size": 282502,
+      "hash": "384f0683c1a2630d7f5bcf54f2dc89c6047b5b1b089209e9de43ee52fa4f839c"
+    },
+    {
+      "path": "Data/GuildLogo/caveira.png",
+      "size": 772984,
+      "hash": "757322b7d2e2f61e41e6715ee08a80ce755349bd345aa300e6003fceb72337c3"
+    },
+    {
+      "path": "Data/GuildLogo/chama.png",
+      "size": 193259,
+      "hash": "0ec5cf9651bf5e308d2ed6abebfb5cbeafd1463629727f10f36371b4f15ae6f0"
+    },
+    {
+      "path": "Data/GuildLogo/charmander.png",
+      "size": 613355,
+      "hash": "6c885393e1640876a25bb8d56304085ebccb6711ec5a6c5361608bf3ad69f94f"
+    },
+    {
+      "path": "Data/GuildLogo/coroa.png",
+      "size": 265084,
+      "hash": "9779bdda736f979b431d80a25450b19e57a40741fb27e62d36a1035222d3a5c0"
+    },
+    {
+      "path": "Data/GuildLogo/dragao.png",
+      "size": 281298,
+      "hash": "dc120d70290d10eb53ea1c2c1649bfa865ea9b22c3af600c0b971fcd5e64c39c"
+    },
+    {
+      "path": "Data/GuildLogo/elmo.png",
+      "size": 667292,
+      "hash": "865837cb724189d17d5c429f3314ea00864b8739ff4fd165fb44bd9ba531d308"
+    },
+    {
+      "path": "Data/GuildLogo/escudo.png",
+      "size": 333842,
+      "hash": "b6849edf37fb10078a97917c18955cdb1243096db54551d8f0543964d638d7da"
+    },
+    {
+      "path": "Data/GuildLogo/espada.png",
+      "size": 531807,
+      "hash": "e77deb2ecd8b3ff0a8104b790338967eac6e3eb6734947270131b4c1c3d96e47"
+    },
+    {
+      "path": "Data/GuildLogo/espadas-cruzadas.png",
+      "size": 746104,
+      "hash": "3abf6f8326273dd9e77bb1e477044c25e71e83642ba8d8f74fe1600cab05ea03"
+    },
+    {
+      "path": "Data/GuildLogo/espadas-escudo.png",
+      "size": 607966,
+      "hash": "afcb1ba0fc9f20bc22cac2a4da2b53ffae83ba308d579d731a76fc2ed568319c"
+    },
+    {
+      "path": "Data/GuildLogo/foice.png",
+      "size": 301957,
+      "hash": "f89b00fa190b7db4f3c1a746e5f8414e6dcfb0ce0e5706adc5a5694c0d7fff27"
+    },
+    {
+      "path": "Data/GuildLogo/joia.png",
+      "size": 140615,
+      "hash": "18d299a55e9deecb0672e76da00b23619df3f4f0e86a3054b2c9c1c0339597a6"
+    },
+    {
+      "path": "Data/GuildLogo/LEIA-ME.txt",
+      "size": 539,
+      "hash": "fc962cc7cbbebdebdbadfa8fde4def2e3c9428c9b85c6488a06d487b5d8c71fd"
+    },
+    {
+      "path": "Data/GuildLogo/lua.png",
+      "size": 440745,
+      "hash": "a47310b00afb7977e23f4a63ad83bf4c35a9c9b955ac5642a5ef33dc6ada0fbd"
+    },
+    {
+      "path": "Data/GuildLogo/machado.png",
+      "size": 817412,
+      "hash": "e2b0a2fb1a36acd52f9511df5091e343a7c51e9857f65116fb9c054683896256"
+    },
+    {
+      "path": "Data/GuildLogo/pikachu.png",
+      "size": 509272,
+      "hash": "33059e31580a234f5697c64fc01a15aaa690d2a407f1e0de7ffcccc7f7ef09ef"
+    },
+    {
+      "path": "Data/GuildLogo/pintinho.png",
+      "size": 503052,
+      "hash": "2a3da312eeae4ae00d7c99d8ff9a89ee8a94f32aefdf5d41eb1b612dbe22374b"
+    },
+    {
+      "path": "Data/GuildLogo/pirata.png",
+      "size": 603561,
+      "hash": "66cc2529efa594cb194ecc44bfa68d3de01f01ac50101a9b8a21bc7263b07268"
+    },
+    {
+      "path": "Data/GuildLogo/pk.png",
+      "size": 800453,
+      "hash": "6ab3c600cf7a48a971215f92e2a47246a99b180ad4f83ea3d0445aaa5f5a3a02"
+    },
+    {
+      "path": "Data/GuildLogo/pokebola.png",
+      "size": 213177,
+      "hash": "8231468e31f4d93f4ed0b7509e7cd0b49db22ef1cb8522028fd097edb1ddbdfc"
+    },
+    {
+      "path": "Data/GuildLogo/varinha.png",
+      "size": 192236,
+      "hash": "48ff20ce08dbee727afa7751f165e8caf7545ea02caf83ab180fc5775bf6e99a"
+    },
+    {
+      "path": "Data/Interface/GuildLogoCanvas.OZT",
+      "size": 16406,
+      "hash": "d6113ac9224f4745bbde5fe24461dc995d22ba4d84ac278959ddaadd7c1740b3"
+    },
+    {
+      "path": "Data/Interface/GuildLogoEditor.OZT",
+      "size": 4194326,
+      "hash": "21953c0b0200ae91301feb3cacda81345409c4c0e5fd4057b1e719bd7f68579e"
+    },
+    {
+      "path": "Data/Interface/GuildLogoEditorAssets.OZT",
+      "size": 4194326,
+      "hash": "07eacab87f2ae1b684d0a0cf22700ffab46f7cea237fca072bd9d0f3a6d01e84"
+    },
+    {
+      "path": "Data/Interface/QuestItemFrame.OZT",
+      "size": 524336,
+      "hash": "5338592654b422f749d47d025d66abf0c14a698fb2896c989df5286ea06a7912"
+    },
+    {
+      "path": "Data/Interface/Reconnect_Bar.OZJ",
+      "size": 4747,
+      "hash": "5b74b8f924e00c2f3c635686260ec3c9a02e60a31f6ed4d8c1ee8f701622ec2a"
+    },
+    {
+      "path": "Data/Interface/Reconnect_BarBack.OZJ",
+      "size": 3450,
+      "hash": "64484fab3e5a49d700453315db12560cf2ea98e12cf0f99c6d51177b55b2a497"
+    },
+    {
+      "path": "Data/Interface/Reconnect_Frame.OZT",
+      "size": 179542,
+      "hash": "875191f0eafdd543f19511b60289d6086eb2200f27ac0fef96c46629141c5ed4"
+    },
+    {
       "path": "Data/Local/client_options.json",
       "size": 3793,
       "hash": "c8674b675309d2c9fc29563f548d06e5537de7651feed375c72e8b6e49c2fa71"
@@ -44,17 +219,17 @@
     {
       "path": "Data/Local/Connect.msil",
       "size": 996,
-      "hash": "8d32862fb2c1e2a65930a54bba37baf686982cb9e6b9b43955fe70740c7e9d45"
+      "hash": "8260cdf9ebbf023eddd7087c03cef00af49eed9698c69271ce36d99d27916768"
     },
     {
       "path": "Data/Update/InterfaceLegend.zip",
-      "size": 74859648,
-      "hash": "98be2506a1740c18965ca45c87d4c005f1383f013ec7f64abf5f7be4b5936ede"
+      "size": 74880096,
+      "hash": "f23f5df1cdc22d1dcdd8dfa6606299add9141235d6b6ae4027071e3bd96b559e"
     },
     {
       "path": "Data/Update/InterfaceOriginal.zip",
-      "size": 52841666,
-      "hash": "203cd1abfd5eda29a86ac5681557ff7e996572aeddd0162973e7d6477ca7b713"
+      "size": 52862114,
+      "hash": "3c9b4afbb155ad6f58ef4d7d0c709d138677f7a23e1bb2365fd388db507bc308"
     },
     {
       "path": "Data/World2/tilegrass01.ozj",
@@ -104,7 +279,12 @@
     {
       "path": "Data/Local/Eng/Item.bmd",
       "size": 1179652,
-      "hash": "7fc1850a02c2a23dd69fe9e9c733afe32377243af319d5f4c0183a19fca0c4d4"
+      "hash": "5077e48fcbe899c5f39f1613862ac2bad0431ca9a61c7893cb14e760834df582"
+    },
+    {
+      "path": "Data/Local/Eng/ItemTooltip.bmd",
+      "size": 1015812,
+      "hash": "4d417187d9ac48b9ea124e957c3fd422ee45f719fea4b891f7c4f2f8e7a346da"
     },
     {
       "path": "Data/Local/Eng/Movereq.bmd",
@@ -144,7 +324,12 @@
     {
       "path": "Data/Local/Por/Item.bmd",
       "size": 1179652,
-      "hash": "7fc1850a02c2a23dd69fe9e9c733afe32377243af319d5f4c0183a19fca0c4d4"
+      "hash": "5077e48fcbe899c5f39f1613862ac2bad0431ca9a61c7893cb14e760834df582"
+    },
+    {
+      "path": "Data/Local/Por/ItemTooltip.bmd",
+      "size": 1015812,
+      "hash": "4d417187d9ac48b9ea124e957c3fd422ee45f719fea4b891f7c4f2f8e7a346da"
     },
     {
       "path": "Data/Local/Por/Movereq.bmd",
@@ -153,8 +338,8 @@
     },
     {
       "path": "Data/Local/Por/Text.bmd",
-      "size": 150383,
-      "hash": "0f82e1f0a44f43cba04f663c9101ede526e010bc30f17f3375f4dc01aeb4d904"
+      "size": 150387,
+      "hash": "f9b0f98e4c8a512e5e6af27fb73fab004a34adcdc9d7d2cec6b42fe6a11b5074"
     },
     {
       "path": "Data/Local/Por/Text.bmd.bak",
@@ -179,7 +364,12 @@
     {
       "path": "Data/Local/Spn/Item.bmd",
       "size": 1179652,
-      "hash": "7fc1850a02c2a23dd69fe9e9c733afe32377243af319d5f4c0183a19fca0c4d4"
+      "hash": "5077e48fcbe899c5f39f1613862ac2bad0431ca9a61c7893cb14e760834df582"
+    },
+    {
+      "path": "Data/Local/Spn/ItemTooltip.bmd",
+      "size": 1015812,
+      "hash": "4d417187d9ac48b9ea124e957c3fd422ee45f719fea4b891f7c4f2f8e7a346da"
     },
     {
       "path": "Data/Local/Spn/Movereq.bmd",
@@ -188,8 +378,8 @@
     },
     {
       "path": "Data/Local/Spn/Text.bmd",
-      "size": 143735,
-      "hash": "7eb4f0bb5b43cfd2aad2184369e88da262967fe523ad667387bff74bfd7b69b1"
+      "size": 143737,
+      "hash": "afb6c0279314c1200de3dea7865c4a8744adea5403bb82e0bc3f6a240d076882"
     },
     {
       "path": "Data/Local/Spn/Text.bmd.bak",
@@ -203,13 +393,13 @@
     },
     {
       "path": "Data/Update/Legend/Main.exe",
-      "size": 17233920,
-      "hash": "5d5f46fd11af7bad8ee8323f23ffe1b0ae1073d4ff8c16428ed6abf89172508a"
+      "size": 17649152,
+      "hash": "6b98c7ff56346565a35390f1313db1483c4dd7a696ae93044619793ad64e2090"
     },
     {
       "path": "Data/Update/Original/Main.exe",
-      "size": 17233920,
-      "hash": "5d5f46fd11af7bad8ee8323f23ffe1b0ae1073d4ff8c16428ed6abf89172508a"
+      "size": 17649152,
+      "hash": "6b98c7ff56346565a35390f1313db1483c4dd7a696ae93044619793ad64e2090"
     },
     {
       "path": "Data/Engine/HUD/loading/18_left.ozj",
@@ -238,13 +428,13 @@
     },
     {
       "path": "Data/Update/Legend/Data/av-code45.pak",
-      "size": 132421,
-      "hash": "3686bf79ce7b60b780e330e0d4ae4d6d1372e9be7c252e319e1125e575636b38"
+      "size": 133405,
+      "hash": "998b36c01393a0e2b52fb98b30bfe0332c042dffc90f7916cbc4a14ea4ef650a"
     },
     {
       "path": "Data/Update/Original/Data/av-code45.pak",
-      "size": 132421,
-      "hash": "e74522ab3b64e956cdfd5920f82998bb45f613033be87efcb811cf1cd13604f4"
+      "size": 133405,
+      "hash": "10a73c0bb06b1ad580597a1e97da137932d8d00a8c81b0452a4334cb8dd994fd"
     },
     {
       "path": "Data/Update/Legend/Data/Local/Connect.msil",
@@ -258,33 +448,33 @@
     },
     {
       "path": "Data/Update/Legend/Data/Local/Eng/client-setting.lang",
-      "size": 8093,
-      "hash": "6f12ed6548f3259af336f5f27c3742d1c6cd4e7276167646f464eeb0cf208141"
+      "size": 8451,
+      "hash": "9fecf2a04c3edf71800f1323f0763a23d347820e41e6f22807fb32fbfcb07df4"
     },
     {
       "path": "Data/Update/Legend/Data/Local/Por/client-setting.lang",
-      "size": 8485,
-      "hash": "8a8ec763d8460b6b8c2a5a6ba7757cae53ac0800241e1c0e08c2d7b28b67a174"
+      "size": 8860,
+      "hash": "2dc34cbedeef7656bb45ff496ed0ea73f627759c1d98599378c1cd449454d018"
     },
     {
       "path": "Data/Update/Legend/Data/Local/Spn/client-setting.lang",
-      "size": 8470,
-      "hash": "2547bd2d200063868206763c572c986c46e395371082651900ccea034ef82f20"
+      "size": 8839,
+      "hash": "a4aa88099701e7632dd8931fa98d7c7824b5462f4b1936ad2db918201e34862c"
     },
     {
       "path": "Data/Update/Original/Data/Local/Eng/client-setting.lang",
-      "size": 8093,
-      "hash": "6f12ed6548f3259af336f5f27c3742d1c6cd4e7276167646f464eeb0cf208141"
+      "size": 8451,
+      "hash": "9fecf2a04c3edf71800f1323f0763a23d347820e41e6f22807fb32fbfcb07df4"
     },
     {
       "path": "Data/Update/Original/Data/Local/Por/client-setting.lang",
-      "size": 8485,
-      "hash": "8a8ec763d8460b6b8c2a5a6ba7757cae53ac0800241e1c0e08c2d7b28b67a174"
+      "size": 8860,
+      "hash": "2dc34cbedeef7656bb45ff496ed0ea73f627759c1d98599378c1cd449454d018"
     },
     {
       "path": "Data/Update/Original/Data/Local/Spn/client-setting.lang",
-      "size": 8470,
-      "hash": "2547bd2d200063868206763c572c986c46e395371082651900ccea034ef82f20"
+      "size": 8839,
+      "hash": "a4aa88099701e7632dd8931fa98d7c7824b5462f4b1936ad2db918201e34862c"
     }
   ]
 }
