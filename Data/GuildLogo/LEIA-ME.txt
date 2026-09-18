@@ -1,0 +1,11 @@
+Ponha aqui as imagens que voce quer importar como logo da guild.
+
+  Formatos  : PNG, JPG, BMP ou TGA
+  Tamanho   : de 64x64 ate 2048x2048 pixels
+  Cores     : ate 255. Tendo mais, sao reduzidas na importacao
+  Recorte   : nenhum. A imagem cabe INTEIRA em 64x64, sem esticar;
+              se nao for quadrada, sobra transparente nas bordas
+  Fundo     : em PNG e TGA o que for transparente continua transparente
+
+No jogo: abra o painel da guild (G), clique na logo e depois em
+"Importar imagem". Os arquivos desta pasta aparecem na lista.
