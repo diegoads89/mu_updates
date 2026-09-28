@@ -13,6 +13,8 @@
 ;==================================================
 [ChatInfo]
 NewFontStyle = 1
-NewFontFile = Data\Engine\Fonts\NotoSansSC.ttf
+; 24/09/2026: Noto Sans Condensed, a mesma do cliente de referencia (o
+; fonts_en.ttf dele). Era Data\Engine\Fonts\NotoSansSC.ttf, mais larga.
+NewFontFile = Data\Fonts\NotoSansCondensed.ttf
 NewFontSize = 0
 NewLinePitch = 20

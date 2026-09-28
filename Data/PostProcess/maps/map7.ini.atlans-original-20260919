@@ -1,0 +1,78 @@
+; Atlans (mapa 7) -- convertido do mapN.ini da referencia (18/09/2026).
+; Sobrepoe o default.ini chave por chave. Ver os comentarios la'.
+
+[PostProcess]
+CloudShadow=0
+TerrainBrightness=1
+SSAO=0
+SSAOIntensity=1
+Fog=0
+FogColorR=0.075
+FogColorG=0.2
+FogColorB=0.27
+FogDensity=0.07
+FogStart=0.536
+FogHeightStrength=0.02
+FogHeightTop=297
+Bloom=0
+BloomIntensity=0.35
+BloomThreshold=0.93
+ToneMapping=1
+Exposure=0.86
+ColorGrade=1
+Contrast=1.1
+Saturation=1.32
+Brightness=1
+Temperature=-0.18
+ShadowLift=0.05
+GradeMidtones=1
+HighlightCompress=0.08
+VignetteIntensity=2
+VignetteRadius=0.68
+Sharpen=1
+SharpenIntensity=0.2
+FilmGrain=0
+FilmGrainStrength=0.03
+LUT=1
+LUTFile=look3.cube
+GodRays=1
+GodRaysDensity=0.44
+GodRaysWeight=0
+GodRaysDecay=0.97
+GodRaysIntensity=0.028
+GodRaysSamples=96
+GodRaysColorR=0.212
+GodRaysColorG=0.543
+GodRaysColorB=0.62
+Light=1
+NormalMapStrength=1
+SpecularStrength=0.3
+TerrainSpecular=0.15
+SpecularPower=24
+TerrainSpecularPower=24
+DynamicLights=1
+PlayerLightIntensity=1.2
+DynamicLightIntensity=1.2
+PlayerLight=1
+PlayerLightRadius=420
+DepthOfField=0
+DynamicLightCount=24
+GodRaysShadow=0.45
+
+; ---------------------------------------------------------------------------
+; Da referencia, SEM equivalente no nosso motor ainda (ignorado pelo leitor):
+;   [PostProcess] SSAORadius=208
+;   [PostProcess] SSAOPower=1.6
+;   [PostProcess] MSAA=1
+;   [PostProcess] MSAASamples=4
+;   [PostProcess] FXAA=0
+;   [PostProcess] GodRaysLightX=140
+;   [PostProcess] GodRaysLightY=0.02
+;   [PostProcess] GodRaysThreshold=148
+;   [PostProcess] GodRaysSunZ=2.3
+;   [PostProcess] DynamicLightFlicker=0
+;   [PostProcess] SunShadows=1
+;   [PostProcess] SunShadowResolution=4096
+;   [PostProcess] SunShadowDistance=1500
+;   [PostProcess] SunShadowSoftness=1.5
+;   [PostProcess] SunShadowBias=1

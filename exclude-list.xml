@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<exclude-list />
+<exclude-list>
+  <entry>livekit.dll</entry>
+  <entry>livekit_ffi.dll</entry>
+</exclude-list>

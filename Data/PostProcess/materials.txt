@@ -1,0 +1,106 @@
+; =============================================================================
+; MATERIAIS POR TEXTURA -- objetos em HD (18/09/2026)
+; =============================================================================
+; Cada linha: Material  Fixo|Solto  padrao
+;   Material: Pedra, Madeira, Metal, Terra, Pele, Tecido, Efeito, Neutro
+;   Fixo  = objeto do MAPA ganha tambem o ruido fino no espaco do mundo
+;           (personagem, monstro e item continuam no espaco da textura).
+;   Solto = so' no espaco da textura, em qualquer modelo.
+;   padrao: pedaco do caminho do arquivo da textura, com * como curinga,
+;           sem diferenca de maiuscula. A PRIMEIRA linha que casar vale.
+; Efeito = sem detalhe nem brilho (fogo, fumaca, magia, folha, agua...).
+; Textura que nao casa com nada fica Neutro (detalhe normal).
+; Desenho com mistura aditiva (brilho de efeito) e' sempre Efeito, sem linha.
+; Recarrega ao trocar de mapa.
+; =============================================================================
+
+; --- efeito e coisa transparente: nunca ganham relevo
+Efeito Solto *effect*
+Efeito Solto *skill*
+Efeito Solto *glow*
+Efeito Solto *light*
+Efeito Solto *flare*
+Efeito Solto *fire*
+Efeito Solto *flame*
+Efeito Solto *smoke*
+Efeito Solto *cloud*
+Efeito Solto *blur*
+Efeito Solto *aurora*
+Efeito Solto *shadow*
+Efeito Solto *leaf*
+Efeito Solto *grass*
+Efeito Solto *water*
+Efeito Solto *lava*
+Efeito Solto *blood*
+Efeito Solto *spark*
+Efeito Solto *magic*
+
+; --- mundo: pedra
+Pedra Fixo *stone*
+Pedra Fixo *rock*
+Pedra Fixo *brick*
+Pedra Fixo *wall*
+Pedra Fixo *ruin*
+Pedra Fixo *tomb*
+Pedra Fixo *statue*
+Pedra Fixo *column*
+Pedra Fixo *pillar*
+Pedra Fixo *castle*
+Pedra Fixo *road*
+Pedra Fixo *pave*
+Pedra Fixo *bridge*
+
+; --- mundo: madeira
+Madeira Fixo *wood*
+Madeira Fixo *plank*
+Madeira Fixo *board*
+Madeira Fixo *timber*
+Madeira Fixo *bark*
+Madeira Fixo *chair*
+Madeira Fixo *bench*
+Madeira Fixo *table*
+Madeira Fixo *barrel*
+Madeira Fixo *fence*
+Madeira Fixo *door*
+Madeira Fixo *crate*
+Madeira Fixo *box*
+
+; --- mundo: terra
+Terra Fixo *ground*
+Terra Fixo *earth*
+Terra Fixo *soil*
+Terra Fixo *dirt*
+Terra Fixo *mud*
+Terra Fixo *sand*
+Terra Fixo *clay*
+Terra Fixo *moss*
+
+; --- personagem e equipamento (so' espaco da textura)
+Metal Solto *metal*
+Metal Solto *steel*
+Metal Solto *iron*
+Metal Solto *armor*
+Metal Solto *armour*
+Metal Solto *weapon*
+Metal Solto *sword*
+; 25/09/2026 -- Arena (Object7): grade de ponta de flecha, estatuas de armadura e
+; ornamentos de ferro. Nomes sem "metal/iron" -- conferido no log [Material] do cliente.
+Metal Solto *object7/au_03.jpg
+Metal Solto *object7/so_sku0*
+Metal Solto *object7/cardahal_0*
+Metal Solto *shield*
+Metal Solto *helm*
+Metal Solto *chain*
+Metal Solto *gold*
+Pele Solto *skin*
+Pele Solto *face*
+Pele Solto *flesh*
+Pele Solto *hair*
+Tecido Solto *cloth*
+Tecido Solto *robe*
+Tecido Solto *cape*
+Tecido Solto *skirt*
+Tecido Solto *fabric*
+Tecido Solto *dress*
+Tecido Solto *banner*
+Tecido Solto *flag*
