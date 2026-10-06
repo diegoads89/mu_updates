@@ -63,12 +63,6 @@
 44@6@151@Scroll of Health@170@200@Increases HP by +200.   #You cannot use Scroll of Quickness,Protection,Wrath,Wizardry and Scroll of Mana at the same time.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1510|@7244@3@1@1510|@0@509@669
 45@1@165@Imp@170@10@Increase Attack Power and Wizardry@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1650|@6657@3@1@1650|@0@509@669
 45@2@166@Guardian Angel@170@10@Absorb Damage     #Increase HP +50@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1660|@6656@3@1@1660|@0@509@669
-46@1@184@Jewel of Level@170@150@Raises the item to +15.#Works on weapons, armor and wings from +0 to +12.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1840|@7412@3@1@1840|@0@509@669
-46@2@185@Jewel of Luck@170@150@Adds Luck to the item (critical damage rate +5%).#Only items without Luck.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1850|@7414@3@1@1850|@0@509@669
-46@3@186@Jewel of Excellent@170@120@Adds one random excellent option.#Not for ancient, socket or lucky items.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1860|@7416@3@1@1860|@0@509@669
-46@4@187@Jewel of Skill@170@80@Adds the skill option to the item.#Only items that have a skill and do not have it yet.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1870|@7413@3@1@1870|@0@509@669
-46@5@188@Jewel of Additional@170@70@Raises the item's additional option to +16.#Not for items that already have +16.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1880|@7415@3@1@1880|@0@509@669
-46@6@189@Jewel of Rarity@170@200@Raises the item's rarity by one step, up to Legendary.#50% success: on failure the jewel is lost and the item does not change.#Weapons, shields, armor, rings and pendants with an excellent option.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1890|@7421@3@1@1890|@0@509@669
 61@1@129@Scroll of Evil Spirit@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1290|@7688@5@1@1290|@1@0@669
 61@2@132@Scroll of Hellfire@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1320|@7689@5@1@1320|@1@0@669
 61@3@130@Orb of Death Stab@170@50@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1300|@6163@5@1@1300|@1@0@669
