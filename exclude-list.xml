@@ -2,4 +2,6 @@
 <exclude-list>
   <entry>livekit.dll</entry>
   <entry>livekit_ffi.dll</entry>
+  <entry>opengl32.dll</entry>
+  <entry>QeffectsGL.ini</entry>
 </exclude-list>
