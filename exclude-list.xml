@@ -4,4 +4,5 @@
   <entry>livekit_ffi.dll</entry>
   <entry>opengl32.dll</entry>
   <entry>QeffectsGL.ini</entry>
+  <entry>QeffectsGL.log</entry>
 </exclude-list>
