@@ -1,10 +1,10 @@
 {
-  "version": "2.3.8",
+  "version": "2.3.9",
   "files": [
     {
       "path": "Main.exe",
-      "size": 17649152,
-      "hash": "6b98c7ff56346565a35390f1313db1483c4dd7a696ae93044619793ad64e2090"
+      "size": 20208640,
+      "hash": "f1bc7de96bf3f6645661aeb2ad508e424b68756cd1383289bc4f272e63ddd03b"
     },
     {
       "path": "Data/av-code45.pak",
@@ -284,7 +284,7 @@
     {
       "path": "Data/Local/Eng/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "4d417187d9ac48b9ea124e957c3fd422ee45f719fea4b891f7c4f2f8e7a346da"
+      "hash": "4b1e00dfda975ea24e5c7eecae87f090b1d0bb1cef6354722bab1b45edf33088"
     },
     {
       "path": "Data/Local/Eng/Movereq.bmd",
@@ -329,7 +329,7 @@
     {
       "path": "Data/Local/Por/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "4d417187d9ac48b9ea124e957c3fd422ee45f719fea4b891f7c4f2f8e7a346da"
+      "hash": "4b1e00dfda975ea24e5c7eecae87f090b1d0bb1cef6354722bab1b45edf33088"
     },
     {
       "path": "Data/Local/Por/Movereq.bmd",
@@ -369,7 +369,7 @@
     {
       "path": "Data/Local/Spn/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "4d417187d9ac48b9ea124e957c3fd422ee45f719fea4b891f7c4f2f8e7a346da"
+      "hash": "4b1e00dfda975ea24e5c7eecae87f090b1d0bb1cef6354722bab1b45edf33088"
     },
     {
       "path": "Data/Local/Spn/Movereq.bmd",
@@ -393,13 +393,13 @@
     },
     {
       "path": "Data/Update/Legend/Main.exe",
-      "size": 17649152,
-      "hash": "6b98c7ff56346565a35390f1313db1483c4dd7a696ae93044619793ad64e2090"
+      "size": 20208640,
+      "hash": "f1bc7de96bf3f6645661aeb2ad508e424b68756cd1383289bc4f272e63ddd03b"
     },
     {
       "path": "Data/Update/Original/Main.exe",
-      "size": 17649152,
-      "hash": "6b98c7ff56346565a35390f1313db1483c4dd7a696ae93044619793ad64e2090"
+      "size": 20208640,
+      "hash": "f1bc7de96bf3f6645661aeb2ad508e424b68756cd1383289bc4f272e63ddd03b"
     },
     {
       "path": "Data/Engine/HUD/loading/18_left.ozj",
