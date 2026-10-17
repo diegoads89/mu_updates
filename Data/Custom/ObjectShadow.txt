@@ -1,0 +1,46 @@
+// ObjectShadow.txt -- sombra de objetos de mapa (shadow map do sol), por tipo.
+// Lido pelo Main.exe; salvar com o jogo aberto recarrega em ate' 1 s.
+//
+// Formato, uma linha por objeto:
+//   mapa  tipo  modo  malhas  siege
+//
+//   mapa    numero do mapa (30 = Valley of Loren / Castle Siege) ou * (todos)
+//   tipo    Type do objeto (o arquivo do modelo e' Object{tipo+1}.bmd)
+//           ou * (todos os tipos do mapa)
+//   modo    on   = projeta sombra mesmo sendo baixo (mesa, banco, cadeira)
+//           off  = nunca projeta
+//           auto = regra de antes: projeta se altura x escala >= 90
+//           (tipo fora da lista = auto)
+//   malhas  *    = todas as malhas projetam
+//           0,2  = so' as malhas 0 e 2
+//           -1   = todas menos a 1 (lista de exclusao: -1,-3 = menos 1 e 3)
+//   siege   1 = sem sombra durante a guerra do Castle Siege; 0 = sempre
+//           (opcional, padrao 0)
+//
+// Procura: mapa exato antes de *; tipo exato antes de *.
+// A opcao "Shadow World" do jogo continua valendo antes de tudo.
+// Nada aqui muda posicao, angulo, escala ou ossos: so' decide quem entra no
+// mapa de sombra.
+//
+// CUIDADO: malha com textura recortada (agua, grade, folha, bandeira) vira
+// sombra em retangulo -- tire essa malha com -N. Objeto rente ao chao (piso,
+// tapete, degrau) mancha o chao: deixe em auto ou off.
+//
+// Diagnostico (arquivo vazio na pasta do Main.exe):
+//   objeto-sombra.off        ignora este arquivo (volta a regra de antes)
+//   objeto-sombra-lista.on   escreve no log [ObjectShadow] os 12 objetos de
+//                            mapa mais perto do heroi: tipo, Object?.bmd,
+//                            altura, escala, regra e as texturas de cada malha
+// O log tambem mostra uma linha [ObjectShadow] por tipo, por mapa, com a
+// decisao (PROJETA / sem sombra).
+//
+// Exemplo (comentado):
+// 2    15   on    *     0     // Devias: banco baixo passa a projetar
+// 2    40   off   *     0     // Devias: objeto que fica feio
+// *    7    on    0     0     // qualquer mapa: tipo 7, so' a malha 0
+
+// ---- Castle Siege (mapa 30, Data\Object31) ----
+30   50   on    *     1     // Object51 toptable: mesa (altura 64)
+30   83   on    -1    1     // Object84 portao/fonte: sem a malha 1 (water.jpg)
+30   84   auto  *     1     // Object85 topchair: cadeira/trono (altura 180)
+30   85   auto  *     1     // Object86 streetlight2: poste (altura 330)
