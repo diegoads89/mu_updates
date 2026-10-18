@@ -9,7 +9,7 @@
 34@3@101@Indulgence@170@1000@Used to Remove PK@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1010|@6716@2@1@1010|@0@508@669
 34@4@102@Magic Backpack@170@500@Inventory Expansion    #Expansao do Inventario@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1020|@7330@2@1@1020|@0@508@669
 34@5@103@Vault Expansion Certificate@170@1000@Vault Expansion     #Expansao do Bau@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1030|@7331@2@1@1030|@0@508@669
-34@6@104@Wizards Ring@170@500@ATK\WIZ DMG +10%          #ATK Speed +10@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1040|@6676@2@1@1040|@0@508@669
+34@6@104@Wizards Ring@170@500@ATK\WIZ DMG +5%           #ATK Speed +10@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1040|@6676@2@1@1040|@0@508@669
 34@7@105@Pendant of Lighting@170@500@Permanent Pendant +Mana@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1050|@6668@2@1@1050|@0@508@669
 34@8@169@Silver Key@170@100@Use to Open Sealed Silver Box@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1690|@7280@2@1@1690|@0@508@669
 34@9@170@Gold Key@170@200@Use to Open Sealed Golden Box@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1700|@7281@2@1@1700|@0@508@669
@@ -41,7 +41,7 @@
 41@5@191@Illusion Temple Ticket@170@160@Use to event Illusion Temple ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1910|@6717@3@1@1910|@0@509@669
 41@6@193@Double Goer Ticket@170@160@Use to event Double Goer ( 10 U ).@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1930|@6781@3@1@1930|@0@509@669
 42@1@110@Fragment of Chaos Assembly@170@100@You will need 10 units of this fragment to complete the craft MIX of the Talisman of Chaos Assembly@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1100|@7354@3@1@1100|@0@509@669
-42@2@167@Wizards Ring@170@20@ATK\WIZ DMG +10%            #ATK Speed +10@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1670|@6676@3@1@1670|@0@509@669
+42@2@167@Wizards Ring@170@20@ATK\WIZ DMG +5%             #ATK Speed +10@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1670|@6676@3@1@1670|@0@509@669
 42@3@168@Indulgence@170@20@Used to Remove PK@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1680|@6716@3@1@1680|@0@509@669
 42@4@172@Silver Key@170@5@Use to Open Sealed Silver Box@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1720|@7280@3@1@1720|@0@509@669
 42@5@173@Gold Key@170@10@Use to Open Sealed Golden Box@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1730|@7281@3@1@1730|@0@509@669
