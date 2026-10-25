@@ -279,12 +279,12 @@
     {
       "path": "Data/Local/Eng/Item.bmd",
       "size": 1179652,
-      "hash": "5077e48fcbe899c5f39f1613862ac2bad0431ca9a61c7893cb14e760834df582"
+      "hash": "e33ac5ae8444589ca0561dba95a4a7d5e3997682cea1f80abdbe7fbef81390e8"
     },
     {
       "path": "Data/Local/Eng/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "4b1e00dfda975ea24e5c7eecae87f090b1d0bb1cef6354722bab1b45edf33088"
+      "hash": "f5b5f9a312e3ace50d5076e309f60b8798f7c6e10dbc730b5748ade0caa8c5ea"
     },
     {
       "path": "Data/Local/Eng/Movereq.bmd",
@@ -324,12 +324,12 @@
     {
       "path": "Data/Local/Por/Item.bmd",
       "size": 1179652,
-      "hash": "5077e48fcbe899c5f39f1613862ac2bad0431ca9a61c7893cb14e760834df582"
+      "hash": "e33ac5ae8444589ca0561dba95a4a7d5e3997682cea1f80abdbe7fbef81390e8"
     },
     {
       "path": "Data/Local/Por/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "4b1e00dfda975ea24e5c7eecae87f090b1d0bb1cef6354722bab1b45edf33088"
+      "hash": "c8a75f478e58b8c911fd1aa8d5b697a7f6dcdfa9bfe9a8d2535a1799d6cddb11"
     },
     {
       "path": "Data/Local/Por/Movereq.bmd",
@@ -364,12 +364,12 @@
     {
       "path": "Data/Local/Spn/Item.bmd",
       "size": 1179652,
-      "hash": "5077e48fcbe899c5f39f1613862ac2bad0431ca9a61c7893cb14e760834df582"
+      "hash": "e33ac5ae8444589ca0561dba95a4a7d5e3997682cea1f80abdbe7fbef81390e8"
     },
     {
       "path": "Data/Local/Spn/ItemTooltip.bmd",
       "size": 1015812,
-      "hash": "4b1e00dfda975ea24e5c7eecae87f090b1d0bb1cef6354722bab1b45edf33088"
+      "hash": "8a838ea1ea4416d4eb7ce891cb41edb23da61db7400d6d4e8e60831fd734caa7"
     },
     {
       "path": "Data/Local/Spn/Movereq.bmd",
@@ -475,6 +475,46 @@
       "path": "Data/Update/Original/Data/Local/Spn/client-setting.lang",
       "size": 8839,
       "hash": "a4aa88099701e7632dd8931fa98d7c7824b5462f4b1936ad2db918201e34862c"
+    },
+    {
+      "path": "Data/Local/Eng/ItemTooltipText.bmd",
+      "size": 274824,
+      "hash": "0a3085b41775fb2386730b5dcb107b33c64fbdf70f164dffae518f957533f9fa"
+    },
+    {
+      "path": "Data/Local/Por/ItemTooltipText.bmd",
+      "size": 274824,
+      "hash": "9460351a4441737321effe6d04671c0ae5deb1fc9918a79bd70e305b619b5662"
+    },
+    {
+      "path": "Data/Local/Spn/ItemTooltipText.bmd",
+      "size": 274824,
+      "hash": "d61ae0ad178e070be7bdd529adedd21ec98d1c4bd6db2b60083f66afee821823"
+    },
+    {
+      "path": "Data/Item/Transmogrify/SkinningTransmogrify.bmd",
+      "size": 16432,
+      "hash": "769728e867cdf9ad1d85b278c9b488cf35c47865ac2c0a97a6446baf8926a08b"
+    },
+    {
+      "path": "Data/Item/Transmogrify/SkinningCleaner.bmd",
+      "size": 23121,
+      "hash": "339811581f734a8b1c152ea3b3d4969e3f30e20e4f1a765d63ef4219c236357d"
+    },
+    {
+      "path": "Data/Item/Transmogrify/ResuPiece.ozj",
+      "size": 22900,
+      "hash": "98871778642b42b1d1898d640fbab4ef4a7ae97fca910d2884d4ab4aae527ecf"
+    },
+    {
+      "path": "Data/Item/Transmogrify/somicb02.ozj",
+      "size": 15119,
+      "hash": "882cd405114f4f941b11c845136e412c074c4260724eb2dd38094668c869245a"
+    },
+    {
+      "path": "Data/Item/Transmogrify/somicb02_R.ozj",
+      "size": 9330,
+      "hash": "d69c281783f79afa39ad3b9eb97a6669a05fb8cdc9a546f3e14cd3059835861f"
     }
   ]
 }

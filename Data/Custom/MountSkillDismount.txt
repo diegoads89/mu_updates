@@ -1,0 +1,60 @@
+// MountSkillDismount.txt (22/10/2026) -- skills que fazem o personagem DESCER da montaria (Uniria, Dinorant,
+// Dark Horse, Fenrir). Lido pelo Main.exe direto (sem Encoder); relido sozinho ~2 s depois de salvar.
+// Sem este arquivo o cliente usa a lista fixa do codigo, que e' exatamente a lista abaixo.
+//
+// Colunas: Skill  Tipo  DuracaoMs
+//   Skill     = numero da skill. 0 = qualquer skill sem linha propria (a linha exata ganha).
+//   Tipo      = 0 nao desmonta
+//               1 desmonta; a montaria fica ao lado e segue (corre de volta e ele monta no fim)
+//               2 desmonta; a montaria some durante a janela e reaparece embaixo dele no fim
+//               3, 4 = da referencia, AINDA NAO IMPLEMENTADOS (contam como 0)
+//   DuracaoMs = tamanho da janela a pe' (500..30000). Andar mais de 50 depois de 0,5 s fecha antes.
+// Regra fixa do codigo: Impale (47) montado em Fenrir/Dark Horse/Uniria/Dinorant nunca desmonta.
+// Opcao do jogador: ESC > Option > Game > "Montaria desmonta nas skills" (desligada = nenhuma desmonta).
+//
+// Skill  Tipo  DuracaoMs
+14	1	4000	// Inferno
+42	1	4000	// Rageful Blow
+44	1	4000	// Crescent Moon Slash
+45	1	4000	// Lance
+46	1	4000	// Starfall
+47	1	4000	// Impale (so' a pe' / montaria sem versao montada)
+49	1	4000	// Fire Breath
+236	1	4000	// Flame Strike
+237	1	4000	// Gigantic Storm
+496	1	4000	// Gigantic Storm Strengthener
+230	1	4000	// Lightning Shock
+260	1	4000	// Killing Blow
+261	1	4000	// Beast Uppercut
+262	1	4000	// Chain Drive
+263	1	4000	// Dark Side
+264	1	4000	// Dragon Roar
+265	1	4000	// Dragon Slasher
+266	1	4000	// Ignore Defense
+267	1	4000	// Increase Health
+268	1	4000	// Increase Block
+269	1	4000	// Charge
+270	1	4000	// Phoenix Shot
+326	1	4000	// Cyclone Strengthener
+327	1	4000	// Slash Strengthener
+328	1	4000	// Falling Slash Strengthener
+329	1	4000	// Lunge Strengthener
+41	1	4000	// Twisting Slash
+330	1	4000	// Twisting Slash Strengthener
+332	1	4000	// Twisting Slash Mastery
+481	1	4000	// Twisting Slash Strengthener 2
+48	1	4000	// Swell Life
+356	1	4000	// Swell Life Strengthener
+360	1	4000	// Swell Life Proficiency
+363	1	4000	// Swell Life Mastery
+43	1	4000	// Death Stab
+336	1	4000	// Death Stab Strengthener
+339	1	4000	// Death Stab Proficiency
+342	1	4000	// Death Stab Mastery
+331	1	4000	// Anger Blow Strengthener
+333	1	4000	// Anger Blow Mastery
+232	1	4000	// Strike of Destruction
+337	1	4000	// Strike of Destruction Strengthener
+340	1	4000	// Strike of Destruction Proficiency
+343	1	4000	// Strike of Destruction Mastery
+end
