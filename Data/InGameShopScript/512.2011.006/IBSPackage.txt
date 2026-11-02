@@ -86,5 +86,5 @@
 62@8@162@Lightning Shock Parchment@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1620|@7701@5@1@1620|@1@0@669
 62@9@163@Dark Side Parchment@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1630|@7711@5@1@1630|@1@0@669
 62@10@164@Chain Drive Parchment@170@200@@@182@185@0@0@177@1@GoblinPoint@GoblinPoint@181@200@0@1640|@7710@5@1@1640|@1@0@669
-34@10@194@Jewel of Luck@170@2000@Adds Luck to the item (critical damage rate +5%).#60% success: on failure the jewel is lost and the item does not change.#Only items without Luck.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1851|@7414@2@1@1851|@0@508@669
+34@10@194@Jewel of Luck@170@1000@Adds Luck to the item (critical damage rate +5%).#60% success: on failure the jewel is lost and the item does not change.#Only items without Luck.@@182@185@0@0@177@1@GloryCoin@GloryCoin@181@200@0@1851|@7414@2@1@1851|@0@508@669
 42@10@195@Jewel of Luck@170@200@Adds Luck to the item (critical damage rate +5%).#60% success: on failure the jewel is lost and the item does not change.#Only items without Luck.@@182@185@0@0@177@1@HuntPoint@HuntPoint@181@200@0@1852|@7414@3@1@1852|@0@509@669
