@@ -5,4 +5,44 @@
   <entry>opengl32.dll</entry>
   <entry>QeffectsGL.ini</entry>
   <entry>QeffectsGL.log</entry>
+  <entry>Data/World1/TileGround01x_n.OZJ</entry>
+  <entry>Data/World1/TileGround01_n.OZJ</entry>
+  <entry>Data/World1/TileGround03_n.OZJ</entry>
+  <entry>Data/World1/TileRock01_n.OZJ</entry>
+  <entry>Data/World1/TileRock02_n.OZJ</entry>
+  <entry>Data/World1/TileRock03_n.OZJ</entry>
+  <entry>Data/World1/TileRock04_n.OZJ</entry>
+  <entry>Data/World1/TileRock05_n.OZJ</entry>
+  <entry>Data/World1/TileRock06_n.OZJ</entry>
+  <entry>Data/World1/TileRock07_n.OZJ</entry>
+  <entry>Data/World1/TileRock08_n.OZJ</entry>
+  <entry>Data/World1/TileRock09_n.OZJ</entry>
+  <entry>Data/World1/TileRock10_n.OZJ</entry>
+  <entry>Data/World1/TileRock11_n.OZJ</entry>
+  <entry>Data/World1/TileRock12_n.OZJ</entry>
+  <entry>Data/World1/TileWood01_n.OZJ</entry>
+  <entry>Data/World112/TileGround01_n.OZJ</entry>
+  <entry>Data/World112/TileGround02_n.OZJ</entry>
+  <entry>Data/World112/TileGround03_n.OZJ</entry>
+  <entry>Data/World112/TileRock01_n.OZJ</entry>
+  <entry>Data/World112/TileRock02_n.OZJ</entry>
+  <entry>Data/World112/TileRock03_n.OZJ</entry>
+  <entry>Data/World112/TileRock05_n.OZJ</entry>
+  <entry>Data/World112/TileRock06_n.OZJ</entry>
+  <entry>Data/World112/TileRock07_n.OZJ</entry>
+  <entry>Data/World173/TileGround01_n.OZJ</entry>
+  <entry>Data/World173/TileGround02_n.OZJ</entry>
+  <entry>Data/World173/TileGround03_n.OZJ</entry>
+  <entry>Data/World173/TileRock01_n.OZJ</entry>
+  <entry>Data/World173/TileRock02_n.OZJ</entry>
+  <entry>Data/World173/TileRock03_n.OZJ</entry>
+  <entry>Data/World173/TileRock05_n.OZJ</entry>
+  <entry>Data/World173/TileRock06_n.OZJ</entry>
+  <entry>Data/World173/TileRock07_n.OZJ</entry>
+  <entry>Data/World4/TileGround01_n.OZJ</entry>
+  <entry>Data/World4/TileGround03_n.OZJ</entry>
+  <entry>Data/World4/TileRock02_n.OZJ</entry>
+  <entry>Data/World4/TileRock03_n.OZJ</entry>
+  <entry>Data/World4/TileRock04_n.OZJ</entry>
+  <entry>Data/World4/TileWood01_n.OZJ</entry>
 </exclude-list>
