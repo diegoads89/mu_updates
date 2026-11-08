@@ -743,4 +743,5 @@
 928   1     "Ice Queen of the Mire"
 929   1     "Gorgon of the Catacombs"
 930   1     "Zaikan of the Abyss"
+935   1     "Death King"
 end
